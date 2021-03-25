@@ -1,0 +1,64 @@
+﻿@page
+@model Meyah.Pages.pagina.Pedidos.CreateModel
+@{
+    Layout = "../Shared/Diseño_Layout";
+}
+<h1 class="text-center">Registrar Pedidos</h1>
+<body>
+
+    <div class="col-md-3"></div>
+    <div class="col-md-6">
+        <form method="post">
+
+            <div class="col">
+                <label asp-for="pedido.productoId"><strong>Producto:</strong></label><br />
+                <select class="custom-select  form-control" asp-for="pedido.productoId" asp-items="@(new SelectList(Model.productoList, "productoId", "nombreprod"))">
+                    <option>Selecciona el Producto</option>
+                </select>
+                <br />
+               
+            </div>
+
+            <div class="col">
+                <label asp-for="pedido.clienteId"><strong>Cliente al que pertenece:</strong></label><br />
+                <select class="custom-select  form-control" asp-for="pedido.clienteId" asp-items="@(new SelectList(Model.clienteList, "clienteId", "nombrecl"))">
+                    <option>Selecciona el cliente</option>
+                </select>
+                <br />
+                
+            </div>
+            <div class="col">
+                <label asp-for="pedido.fechaentrega"><strong>Fecha de entrega:</strong></label><br />
+                <input asp-for="pedido.fechaentrega" type="datetime-local" class="form-control" />
+                <br />
+                
+            </div>
+            
+             <div class="col">
+                    <label asp-for="pedido.precio"><strong>Precio:</strong></label>
+                    <input class="form-control" asp-for="pedido.precio" />
+                    <span class="text-danger"></span>
+                 <br />
+                 
+             </div>
+
+
+                <div class="col">
+                    <label asp-for="pedido.cantidad"><strong>Cantidad:</strong></label>
+                    <input type="number" class="form-control" asp-for="pedido.cantidad" />
+                    <span class="text-danger"></span>
+                    <br />
+                    
+
+                </div>
+            
+            <br />
+            <div class="col-md-5"></div>
+                <button class="btn btn-success" type="submit" value="Agregar"> Agregar</button> |
+                <button type="submit" class="btn btn-danger" asp-page="/pagina/Pedidos/Index">Cancelar</button>
+            <div class="col-md-5"></div>
+
+        </form>
+    </div>
+    <div class="col-md-3"></div>
+</body>

@@ -1,0 +1,32 @@
+﻿@page
+@model Meyah.Pages.pagina.Clientes.ClienteVistaModel
+@{
+    Layout = "../Shared/Diseño_Layout";
+}
+<header></header>
+<body>
+    <h1 class="text-center">Clientes</h1>
+    <br />
+    <table class="table table-bordered table-striped table-condensed">
+        <thead>
+            <tr>
+                <th>Codigo</th>
+                <th>Nombre</th>
+                <th>Apellido</th>
+                <th></th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var item in Model.ClienteList)
+            {
+            <tr>
+                <td>@item.clienteId</td>
+                <td>@item.nombrecl</td>
+                <td>@item.apellidocl</td>
+                <td class=" centered" WIDTH="150"> <a class="btn btn-primary btn-sm" href="/pagina/Clientes/Details?id=@item.clienteId"><strong>Detalles</strong></a></td>
+            </tr>
+            }
+        </tbody>
+    </table>
+</body>
+

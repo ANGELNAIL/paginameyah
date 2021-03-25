@@ -1,0 +1,52 @@
+﻿@page
+@model Meyah.Pages.pagina.Pedidos.EditModel
+@{
+    Layout = "../Shared/Diseño_Layout";
+}
+<h1 class="hidden">@Model.pedido.pedidoId</h1>
+<h1 class="text-center">Detalles Pedidos</h1>
+<body>
+
+    <form method="post">
+
+        <div class="col-md-5"></div>
+            <input class="btn btn btn-info" name="button" type="submit" value="Actualizar" /> |
+            <a type="submit" class="btn btn-danger" href="/pagina/Index">Cancelar</a>
+        <div class="col-md-5"></div>
+
+        <div class="form-group col-md-6">
+            <label asp-for="pedido.productoId"><strong>Producto:</strong></label><br />
+            <select class="custom-select  form-control" asp-for="pedido.productoId" asp-items="@(new SelectList(Model.productoList, "productoId", "nombreprod"))">
+                <option>Selecciona el Producto</option>
+            </select>
+        </div>
+
+
+        <div class="form-group col-md-6">
+            <label asp-for="pedido.clienteId"><strong>Cliente al que pertenece:</strong></label><br />
+            <select class="custom-select  form-control" asp-for="pedido.clienteId" asp-items="@(new SelectList(Model.clienteList, "clienteId", "nombrecl","apellidocl"))">
+                <option>Selecciona el cliente</option>
+            </select>
+        </div>
+        <div class="form-group col-md-6">
+            <label asp-for="pedido.fechaentrega"><strong>Fecha de entrega:</strong></label><br />
+            <input asp-for="pedido.fechaentrega" type="datetime-local" class="form-control" />
+        </div>
+
+
+        <div class="form-row">
+            <div class="form-group col-md-6">
+                <label asp-for="pedido.precio"><strong>Precio:</strong></label>
+                <input class="form-control" asp-for="pedido.precio" disabled="disabled" />
+                <span class="text-danger"></span>
+            </div>
+            <div class="form-group col-md-6">
+                <label asp-for="pedido.cantidad"><strong>Precio:</strong></label>
+                <input type="number" class="form-control" asp-for="pedido.cantidad" />
+                <span class="text-danger"></span>
+            </div>
+        </div>
+
+    </form>
+    <div class="col-md-3"></div>
+</body>

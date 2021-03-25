@@ -1,0 +1,72 @@
+C:\Users\ANGEL\source\repos\Meyah_page\MeyahUI\Meyah.Services\bin\Debug\netcoreapp3.1\Meyah.Models.dll
+C:\Users\ANGEL\source\repos\Meyah_page\MeyahUI\Meyah.Services\obj\Debug\netcoreapp3.1\Meyah.Services.csprojAssemblyReference.cache
+C:\Users\ANGEL\source\repos\Meyah_page\MeyahUI\Meyah.Services\obj\Debug\netcoreapp3.1\Meyah.Services.AssemblyInfoInputs.cache
+C:\Users\ANGEL\source\repos\Meyah_page\MeyahUI\Meyah.Services\obj\Debug\netcoreapp3.1\Meyah.Services.AssemblyInfo.cs
+C:\Users\ANGEL\source\repos\Meyah_page\MeyahUI\Meyah.Services\bin\Debug\netcoreapp3.1\Meyah.Services.deps.json
+C:\Users\ANGEL\source\repos\Meyah_page\MeyahUI\Meyah.Services\bin\Debug\netcoreapp3.1\Meyah.Services.dll
+C:\Users\ANGEL\source\repos\Meyah_page\MeyahUI\Meyah.Services\bin\Debug\netcoreapp3.1\Meyah.Services.pdb
+C:\Users\ANGEL\source\repos\Meyah_page\MeyahUI\Meyah.Services\bin\Debug\netcoreapp3.1\Meyah.Models.pdb
+C:\Users\ANGEL\source\repos\Meyah_page\MeyahUI\Meyah.Services\obj\Debug\netcoreapp3.1\Meyah.Services.csproj.CoreCompileInputs.cache
+C:\Users\ANGEL\source\repos\Meyah_page\MeyahUI\Meyah.Services\obj\Debug\netcoreapp3.1\Meyah.Services.csproj.CopyComplete
+C:\Users\ANGEL\source\repos\Meyah_page\MeyahUI\Meyah.Services\obj\Debug\netcoreapp3.1\Meyah.Services.dll
+C:\Users\ANGEL\source\repos\Meyah_page\MeyahUI\Meyah.Services\obj\Debug\netcoreapp3.1\Meyah.Services.pdb
+C:\Users\ANGEL\Desktop\Meyah_page\Meyah_page\MeyahUI\Meyah.Services\bin\Debug\netcoreapp3.1\Meyah.Services.deps.json
+C:\Users\ANGEL\Desktop\Meyah_page\Meyah_page\MeyahUI\Meyah.Services\bin\Debug\netcoreapp3.1\Meyah.Services.dll
+C:\Users\ANGEL\Desktop\Meyah_page\Meyah_page\MeyahUI\Meyah.Services\bin\Debug\netcoreapp3.1\Meyah.Services.pdb
+C:\Users\ANGEL\Desktop\Meyah_page\Meyah_page\MeyahUI\Meyah.Services\bin\Debug\netcoreapp3.1\Meyah.Models.dll
+C:\Users\ANGEL\Desktop\Meyah_page\Meyah_page\MeyahUI\Meyah.Services\bin\Debug\netcoreapp3.1\Meyah.Models.pdb
+C:\Users\ANGEL\Desktop\Meyah_page\Meyah_page\MeyahUI\Meyah.Services\obj\Debug\netcoreapp3.1\Meyah.Services.csprojAssemblyReference.cache
+C:\Users\ANGEL\Desktop\Meyah_page\Meyah_page\MeyahUI\Meyah.Services\obj\Debug\netcoreapp3.1\Meyah.Services.AssemblyInfoInputs.cache
+C:\Users\ANGEL\Desktop\Meyah_page\Meyah_page\MeyahUI\Meyah.Services\obj\Debug\netcoreapp3.1\Meyah.Services.AssemblyInfo.cs
+C:\Users\ANGEL\Desktop\Meyah_page\Meyah_page\MeyahUI\Meyah.Services\obj\Debug\netcoreapp3.1\Meyah.Services.csproj.CoreCompileInputs.cache
+C:\Users\ANGEL\Desktop\Meyah_page\Meyah_page\MeyahUI\Meyah.Services\obj\Debug\netcoreapp3.1\Meyah.Services.csproj.CopyComplete
+C:\Users\ANGEL\Desktop\Meyah_page\Meyah_page\MeyahUI\Meyah.Services\obj\Debug\netcoreapp3.1\Meyah.Services.dll
+C:\Users\ANGEL\Desktop\Meyah_page\Meyah_page\MeyahUI\Meyah.Services\obj\Debug\netcoreapp3.1\Meyah.Services.pdb
+C:\Users\ANGEL\Desktop\respaldar\meyah proyectos\Meyah_page\MeyahUI\Meyah.Services\bin\Debug\netcoreapp3.1\Meyah.Services.deps.json
+C:\Users\ANGEL\Desktop\respaldar\meyah proyectos\Meyah_page\MeyahUI\Meyah.Services\bin\Debug\netcoreapp3.1\Meyah.Services.dll
+C:\Users\ANGEL\Desktop\respaldar\meyah proyectos\Meyah_page\MeyahUI\Meyah.Services\bin\Debug\netcoreapp3.1\Meyah.Services.pdb
+C:\Users\ANGEL\Desktop\respaldar\meyah proyectos\Meyah_page\MeyahUI\Meyah.Services\bin\Debug\netcoreapp3.1\Meyah.Models.dll
+C:\Users\ANGEL\Desktop\respaldar\meyah proyectos\Meyah_page\MeyahUI\Meyah.Services\bin\Debug\netcoreapp3.1\Meyah.Models.pdb
+C:\Users\ANGEL\Desktop\respaldar\meyah proyectos\Meyah_page\MeyahUI\Meyah.Services\obj\Debug\netcoreapp3.1\Meyah.Services.csprojAssemblyReference.cache
+C:\Users\ANGEL\Desktop\respaldar\meyah proyectos\Meyah_page\MeyahUI\Meyah.Services\obj\Debug\netcoreapp3.1\Meyah.Services.AssemblyInfoInputs.cache
+C:\Users\ANGEL\Desktop\respaldar\meyah proyectos\Meyah_page\MeyahUI\Meyah.Services\obj\Debug\netcoreapp3.1\Meyah.Services.AssemblyInfo.cs
+C:\Users\ANGEL\Desktop\respaldar\meyah proyectos\Meyah_page\MeyahUI\Meyah.Services\obj\Debug\netcoreapp3.1\Meyah.Services.csproj.CoreCompileInputs.cache
+C:\Users\ANGEL\Desktop\respaldar\meyah proyectos\Meyah_page\MeyahUI\Meyah.Services\obj\Debug\netcoreapp3.1\Meyah.Services.csproj.CopyComplete
+C:\Users\ANGEL\Desktop\respaldar\meyah proyectos\Meyah_page\MeyahUI\Meyah.Services\obj\Debug\netcoreapp3.1\Meyah.Services.dll
+C:\Users\ANGEL\Desktop\respaldar\meyah proyectos\Meyah_page\MeyahUI\Meyah.Services\obj\Debug\netcoreapp3.1\Meyah.Services.pdb
+C:\Users\ANGEL\Desktop\Meyah_page\MeyahUI\Meyah.Services\bin\Debug\netcoreapp3.1\Meyah.Services.deps.json
+C:\Users\ANGEL\Desktop\Meyah_page\MeyahUI\Meyah.Services\bin\Debug\netcoreapp3.1\Meyah.Services.dll
+C:\Users\ANGEL\Desktop\Meyah_page\MeyahUI\Meyah.Services\bin\Debug\netcoreapp3.1\Meyah.Services.pdb
+C:\Users\ANGEL\Desktop\Meyah_page\MeyahUI\Meyah.Services\bin\Debug\netcoreapp3.1\Meyah.Models.dll
+C:\Users\ANGEL\Desktop\Meyah_page\MeyahUI\Meyah.Services\bin\Debug\netcoreapp3.1\Meyah.Models.pdb
+C:\Users\ANGEL\Desktop\Meyah_page\MeyahUI\Meyah.Services\obj\Debug\netcoreapp3.1\Meyah.Services.csprojAssemblyReference.cache
+C:\Users\ANGEL\Desktop\Meyah_page\MeyahUI\Meyah.Services\obj\Debug\netcoreapp3.1\Meyah.Services.AssemblyInfoInputs.cache
+C:\Users\ANGEL\Desktop\Meyah_page\MeyahUI\Meyah.Services\obj\Debug\netcoreapp3.1\Meyah.Services.AssemblyInfo.cs
+C:\Users\ANGEL\Desktop\Meyah_page\MeyahUI\Meyah.Services\obj\Debug\netcoreapp3.1\Meyah.Services.csproj.CoreCompileInputs.cache
+C:\Users\ANGEL\Desktop\Meyah_page\MeyahUI\Meyah.Services\obj\Debug\netcoreapp3.1\Meyah.Services.csproj.CopyComplete
+C:\Users\ANGEL\Desktop\Meyah_page\MeyahUI\Meyah.Services\obj\Debug\netcoreapp3.1\Meyah.Services.dll
+C:\Users\ANGEL\Desktop\Meyah_page\MeyahUI\Meyah.Services\obj\Debug\netcoreapp3.1\Meyah.Services.pdb
+C:\Users\ANGEL\Desktop\bd\Meyah_page\MeyahUI\Meyah.Services\bin\Debug\netcoreapp3.1\Meyah.Services.deps.json
+C:\Users\ANGEL\Desktop\bd\Meyah_page\MeyahUI\Meyah.Services\bin\Debug\netcoreapp3.1\Meyah.Services.dll
+C:\Users\ANGEL\Desktop\bd\Meyah_page\MeyahUI\Meyah.Services\bin\Debug\netcoreapp3.1\Meyah.Services.pdb
+C:\Users\ANGEL\Desktop\bd\Meyah_page\MeyahUI\Meyah.Services\bin\Debug\netcoreapp3.1\Meyah.Models.dll
+C:\Users\ANGEL\Desktop\bd\Meyah_page\MeyahUI\Meyah.Services\bin\Debug\netcoreapp3.1\Meyah.Models.pdb
+C:\Users\ANGEL\Desktop\bd\Meyah_page\MeyahUI\Meyah.Services\obj\Debug\netcoreapp3.1\Meyah.Services.csprojAssemblyReference.cache
+C:\Users\ANGEL\Desktop\bd\Meyah_page\MeyahUI\Meyah.Services\obj\Debug\netcoreapp3.1\Meyah.Services.AssemblyInfoInputs.cache
+C:\Users\ANGEL\Desktop\bd\Meyah_page\MeyahUI\Meyah.Services\obj\Debug\netcoreapp3.1\Meyah.Services.AssemblyInfo.cs
+C:\Users\ANGEL\Desktop\bd\Meyah_page\MeyahUI\Meyah.Services\obj\Debug\netcoreapp3.1\Meyah.Services.csproj.CoreCompileInputs.cache
+C:\Users\ANGEL\Desktop\bd\Meyah_page\MeyahUI\Meyah.Services\obj\Debug\netcoreapp3.1\Meyah.Services.csproj.CopyComplete
+C:\Users\ANGEL\Desktop\bd\Meyah_page\MeyahUI\Meyah.Services\obj\Debug\netcoreapp3.1\Meyah.Services.dll
+C:\Users\ANGEL\Desktop\bd\Meyah_page\MeyahUI\Meyah.Services\obj\Debug\netcoreapp3.1\Meyah.Services.pdb
+C:\Users\ANGEL\Desktop\MeyahUI\Meyah.Services\bin\Debug\netcoreapp3.1\Meyah.Services.deps.json
+C:\Users\ANGEL\Desktop\MeyahUI\Meyah.Services\bin\Debug\netcoreapp3.1\Meyah.Services.dll
+C:\Users\ANGEL\Desktop\MeyahUI\Meyah.Services\bin\Debug\netcoreapp3.1\Meyah.Services.pdb
+C:\Users\ANGEL\Desktop\MeyahUI\Meyah.Services\bin\Debug\netcoreapp3.1\Meyah.Models.dll
+C:\Users\ANGEL\Desktop\MeyahUI\Meyah.Services\bin\Debug\netcoreapp3.1\Meyah.Models.pdb
+C:\Users\ANGEL\Desktop\MeyahUI\Meyah.Services\obj\Debug\netcoreapp3.1\Meyah.Services.csprojAssemblyReference.cache
+C:\Users\ANGEL\Desktop\MeyahUI\Meyah.Services\obj\Debug\netcoreapp3.1\Meyah.Services.AssemblyInfoInputs.cache
+C:\Users\ANGEL\Desktop\MeyahUI\Meyah.Services\obj\Debug\netcoreapp3.1\Meyah.Services.AssemblyInfo.cs
+C:\Users\ANGEL\Desktop\MeyahUI\Meyah.Services\obj\Debug\netcoreapp3.1\Meyah.Services.csproj.CoreCompileInputs.cache
+C:\Users\ANGEL\Desktop\MeyahUI\Meyah.Services\obj\Debug\netcoreapp3.1\Meyah.Services.csproj.CopyComplete
+C:\Users\ANGEL\Desktop\MeyahUI\Meyah.Services\obj\Debug\netcoreapp3.1\Meyah.Services.dll
+C:\Users\ANGEL\Desktop\MeyahUI\Meyah.Services\obj\Debug\netcoreapp3.1\Meyah.Services.pdb

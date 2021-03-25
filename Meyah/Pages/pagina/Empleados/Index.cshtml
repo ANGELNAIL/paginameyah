@@ -1,0 +1,28 @@
+﻿@page
+@model Meyah.Pages.pagina.Empleados.IndexModel
+@{
+    Layout = "../Shared/Diseño_Layout";
+}
+
+<h1 class="text-center">Empleados</h1>
+<table class="table table-bordered table-striped table-condensed">
+    <thead>
+        <tr>
+            <th><strong>Id</strong></th>
+            <th><strong>Nombre</strong></th>
+            <th><strong>Apellido</strong></th>      
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model.EmpleadoList)
+        {
+        <tr>
+            <td>@item.empleadoId</td>
+            <td>@item.nombreemp</td>
+            <td>@item.apellidoem</td>            
+            <td class=" centered" WIDTH="150"> <a class="btn btn-primary btn-sm" href="/pagina/Empleados/Details?id=@item.empleadoId"><strong>Detalles</strong></a></td>
+        </tr>
+        }        
+    </tbody>
+</table>

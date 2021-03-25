@@ -1,0 +1,32 @@
+﻿@page
+@model Meyah.Pages.pagina.Usuarios.UsuariosVistaModel
+@{
+    Layout = "../Shared/Diseño_Layout";
+}
+<header></header>
+<body>
+    <h1 class="text-center">Usuarios</h1>
+    <table class="table table-bordered table-striped table-condensed">
+        <thead>
+            <tr>
+                <th>Id</th>
+                <th>Email</th>               
+                <th class="numeric">tipo</th>
+                <th></th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var item in Model.UsuarioList)
+            {
+            <tr>
+                <td>@item.usuarioId</td>
+                <td>@item.email</td>                
+                <td class="numeric" WIDTH="50">@item.tipoId</td>
+                <td class=" centered" WIDTH="150"><button class="btn btn-success btn-sm">Editar</button> <a></a> <button class="btn btn-danger btn-sm">Eliminar</button></td>
+            </tr>
+            }
+
+        </tbody>
+    </table>
+</body>
+

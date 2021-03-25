@@ -1,0 +1,28 @@
+﻿@page
+@model Meyah.Pages.pagina.Tareas.IndexModel
+@{
+    Layout = "../Shared/Diseño_Layout";
+}
+<h1 class="text-center">Tareas</h1>
+<table class="table table-bordered table-striped table-condensed">
+    <thead>
+        <tr>
+            <th><strong>Codigo</strong></th>
+            <th><strong>Descripcion</strong></th>            
+            <th><strong>Fecha de Entrega</strong></th>  
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            @foreach (var item in Model.tareaList)
+            {
+        <tr>
+            <td>@item.tareaId</td>
+            <td>@item.descripcion</td>
+            <td>@item.fechaentrega.ToShortDateString()</td>                    
+            <td class=" centered" WIDTH="150"> <a class="btn btn-primary btn-sm" href="/pagina/Tareas/Details?id=@item.tareaId">Detalles</a> </td>
+        </tr>
+            }
+        </tbody>
+</table>

@@ -1,0 +1,39 @@
+﻿@page
+@model Meyah.Pages.pagina.Productos.ProductoAltaModel
+@{
+    Layout = "Diseño_Layout";
+}
+<h1 class="text-center">Agregar Producto</h1>
+
+<div class="col-md-3"></div>
+<div class="col-md-6">
+    <form method="post">
+
+        <div class="form-group">
+            <div class="col">
+                <!-- la propiedad required indica que un campo no puede dejarse vacio e impide que el codigo funcione hasta que se llene -->
+
+                <label asp-for="producto.nombreprod" class="control-label"><strong>Nombre:</strong> (Required)</label>
+                <input asp-for="producto.nombreprod" type="text" class="form-control" required />
+            </div>
+
+            <div class="col">
+                <label asp-for="producto.precio" class="control-label"><strong>Precio:</strong> (Required)</label>
+                <input asp-for="producto.precio" type="text" class="form-control" minlength="1" maxlength="8" required pattern="[1.0-9.9]{1,8}" title="Ingrese solo números.  mínimo: 1.  máximo: 7" />
+                <!-- la propiedad required indica que un campo no puede dejarse vacio e impide que el codigo funcione hasta que se llene -->
+                <!-- la propiedad minlength indica la longitud minima de un campo  e impide ingresar valores que no coincidan con el tamaño -->
+                <!-- la propiedad maxlength indica la longitud maxima de un campo  e impide ingresar valores que no coincidan con el tamaño ->
+                <!-- la propiedad pattern indica la el rango de aceptado -->
+                <!-- la propiedad title despliega un mensaje expresando informacion que se dese ver -->
+            </div>
+        </div>
+
+        <div class="col-md-5"></div>
+            <button class="btn btn-success" type="submit" value="Agregar"> Agregar</button> |
+            <button type="submit" class="btn btn-danger " asp-page="/pagina/Productos/ProductoVista">Cancelar</button>
+        <div class="col-md-5"></div>
+
+    </form>
+</div>
+
+    

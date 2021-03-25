@@ -1,0 +1,90 @@
+﻿@page
+@model Meyah.Pages.pagina.Clientes.EditModel
+@{
+    Layout = "../Shared/Diseño_Layout";
+}
+<a class="hidden">@Model.Cliente.clienteId</a>
+<h1 class="text-center">Editar Cliente</h1>
+<body>
+  
+    <form method="post">
+
+        <div class="modal fade" id="myModal" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+            <div class="modal-dialog">
+                <div class="modal-content">
+                    <div class="modal-header">
+                        <button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button>
+                        <h4 class="modal-title" id="myModalLabel">Alerta</h4>
+                    </div>
+                    <div class="modal-body">
+                        ¿Desea actualizar el cliente: "@Model.Cliente.nombrecl + @Model.Cliente.apellidocl"?
+                    </div>
+                    <div class="modal-footer">
+                        <button type="button" class="btn btn-info" data-dismiss="modal">Guardar</button> |
+                        <input class="btn btn-danger" name="button" type="submit" value="Cancelar" />
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <div class="col-md-5"></div>
+            <input class="btn btn-info " type="button" data-toggle="modal" data-target="#myModal" value="Guardar"> |
+            <button type="submit" class="btn btn-danger" asp-page="/pagina/Index">Cancelar</button>
+        <div class="col-md-5"></div>
+
+        <label class="control-label"></label>
+        <input asp-for="@Model.Cliente.clienteId" type="text" value="@Model.Cliente.clienteId" class="hide" />
+        <input asp-for="@Model.Cliente.usuarioId" type="text" value="1" class="hide" />
+
+
+        <div class="form-group">
+            <div class=" col-md-6">
+                <label asp-for="Cliente.nombrecl"><strong>Nombre:</strong></label>
+                <input asp-for="Cliente.nombrecl" type="text" class="form-control" id="exampleFormControlInput1" value="@Model.Cliente.nombrecl">
+                <span class="text-danger"></span>
+            </div>
+            <div class=" col-md-6">
+                <label asp-for="Cliente.apellidocl"><strong>Apellido:</strong></label>
+                <input asp-for="Cliente.apellidocl" type="text" class="form-control" id="exampleFormControlInput1" value="@Model.Cliente.apellidocl">
+                <span class="text-danger"></span>
+            </div>
+            <br />
+            <br />
+            <br />
+
+        </div>
+
+        <div class="form-row">
+            <div class="form-group col-md-4">
+                <label asp-for="Cliente.direccion"><strong>Dirección:</strong></label>
+                <input asp-for="Cliente.direccion" type="text" class="form-control" value="@Model.Cliente.direccion" />
+                <span class="text-danger"></span>
+            </div>
+
+            <div class="form-group col-md-4">
+                <label asp-for="Cliente.telefono"><strong>Telfono:</strong></label>
+                <input asp-for="Cliente.telefono" type="text" class="form-control" value="@Model.Cliente.telefono" />
+                <span class="text-danger"></span>
+            </div>
+
+            <div class="form-group col-md-4">
+                <label asp-for="Cliente.nacimiento"><strong>Fecha de nacimiento:</strong></label>
+                <input asp-for="Cliente.nacimiento" type="datetime-local" class="form-control col-md-6" value="@Model.Cliente.nacimiento">
+                <span class="text-danger"></span>
+            </div>
+        </div>
+
+        <div class="form-group">
+            <div class=" col-md-6">
+                <label for="nombreProducto"><strong>Fecha de registro:</strong></label>
+                <input type="text" class="form-control" id="exampleFormControlInput1" value="@Model.Cliente.creado.ToShortDateString()">
+            </div>
+            <br />
+            <br />
+            <br />
+        </div>
+
+
+    </form>
+    
+</body>

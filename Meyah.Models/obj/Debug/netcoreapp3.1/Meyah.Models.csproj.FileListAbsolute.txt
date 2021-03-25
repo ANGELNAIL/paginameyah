@@ -1,0 +1,54 @@
+C:\Users\ANGEL\source\repos\Meyah_page\MeyahUI\Meyah.Models\bin\Debug\netcoreapp3.1\Meyah.Models.deps.json
+C:\Users\ANGEL\source\repos\Meyah_page\MeyahUI\Meyah.Models\bin\Debug\netcoreapp3.1\Meyah.Models.dll
+C:\Users\ANGEL\source\repos\Meyah_page\MeyahUI\Meyah.Models\obj\Debug\netcoreapp3.1\Meyah.Models.csprojAssemblyReference.cache
+C:\Users\ANGEL\source\repos\Meyah_page\MeyahUI\Meyah.Models\obj\Debug\netcoreapp3.1\Meyah.Models.AssemblyInfoInputs.cache
+C:\Users\ANGEL\source\repos\Meyah_page\MeyahUI\Meyah.Models\obj\Debug\netcoreapp3.1\Meyah.Models.AssemblyInfo.cs
+C:\Users\ANGEL\source\repos\Meyah_page\MeyahUI\Meyah.Models\bin\Debug\netcoreapp3.1\Meyah.Models.pdb
+C:\Users\ANGEL\source\repos\Meyah_page\MeyahUI\Meyah.Models\obj\Debug\netcoreapp3.1\Meyah.Models.csproj.CoreCompileInputs.cache
+C:\Users\ANGEL\source\repos\Meyah_page\MeyahUI\Meyah.Models\obj\Debug\netcoreapp3.1\Meyah.Models.dll
+C:\Users\ANGEL\source\repos\Meyah_page\MeyahUI\Meyah.Models\obj\Debug\netcoreapp3.1\Meyah.Models.pdb
+C:\Users\ANGEL\Desktop\Meyah_page\Meyah_page\MeyahUI\Meyah.Models\bin\Debug\netcoreapp3.1\Meyah.Models.deps.json
+C:\Users\ANGEL\Desktop\Meyah_page\Meyah_page\MeyahUI\Meyah.Models\bin\Debug\netcoreapp3.1\Meyah.Models.dll
+C:\Users\ANGEL\Desktop\Meyah_page\Meyah_page\MeyahUI\Meyah.Models\bin\Debug\netcoreapp3.1\Meyah.Models.pdb
+C:\Users\ANGEL\Desktop\Meyah_page\Meyah_page\MeyahUI\Meyah.Models\obj\Debug\netcoreapp3.1\Meyah.Models.csprojAssemblyReference.cache
+C:\Users\ANGEL\Desktop\Meyah_page\Meyah_page\MeyahUI\Meyah.Models\obj\Debug\netcoreapp3.1\Meyah.Models.AssemblyInfoInputs.cache
+C:\Users\ANGEL\Desktop\Meyah_page\Meyah_page\MeyahUI\Meyah.Models\obj\Debug\netcoreapp3.1\Meyah.Models.AssemblyInfo.cs
+C:\Users\ANGEL\Desktop\Meyah_page\Meyah_page\MeyahUI\Meyah.Models\obj\Debug\netcoreapp3.1\Meyah.Models.csproj.CoreCompileInputs.cache
+C:\Users\ANGEL\Desktop\Meyah_page\Meyah_page\MeyahUI\Meyah.Models\obj\Debug\netcoreapp3.1\Meyah.Models.dll
+C:\Users\ANGEL\Desktop\Meyah_page\Meyah_page\MeyahUI\Meyah.Models\obj\Debug\netcoreapp3.1\Meyah.Models.pdb
+C:\Users\ANGEL\Desktop\respaldar\meyah proyectos\Meyah_page\MeyahUI\Meyah.Models\bin\Debug\netcoreapp3.1\Meyah.Models.deps.json
+C:\Users\ANGEL\Desktop\respaldar\meyah proyectos\Meyah_page\MeyahUI\Meyah.Models\bin\Debug\netcoreapp3.1\Meyah.Models.dll
+C:\Users\ANGEL\Desktop\respaldar\meyah proyectos\Meyah_page\MeyahUI\Meyah.Models\bin\Debug\netcoreapp3.1\Meyah.Models.pdb
+C:\Users\ANGEL\Desktop\respaldar\meyah proyectos\Meyah_page\MeyahUI\Meyah.Models\obj\Debug\netcoreapp3.1\Meyah.Models.csprojAssemblyReference.cache
+C:\Users\ANGEL\Desktop\respaldar\meyah proyectos\Meyah_page\MeyahUI\Meyah.Models\obj\Debug\netcoreapp3.1\Meyah.Models.AssemblyInfoInputs.cache
+C:\Users\ANGEL\Desktop\respaldar\meyah proyectos\Meyah_page\MeyahUI\Meyah.Models\obj\Debug\netcoreapp3.1\Meyah.Models.AssemblyInfo.cs
+C:\Users\ANGEL\Desktop\respaldar\meyah proyectos\Meyah_page\MeyahUI\Meyah.Models\obj\Debug\netcoreapp3.1\Meyah.Models.csproj.CoreCompileInputs.cache
+C:\Users\ANGEL\Desktop\respaldar\meyah proyectos\Meyah_page\MeyahUI\Meyah.Models\obj\Debug\netcoreapp3.1\Meyah.Models.dll
+C:\Users\ANGEL\Desktop\respaldar\meyah proyectos\Meyah_page\MeyahUI\Meyah.Models\obj\Debug\netcoreapp3.1\Meyah.Models.pdb
+C:\Users\ANGEL\Desktop\Meyah_page\MeyahUI\Meyah.Models\bin\Debug\netcoreapp3.1\Meyah.Models.deps.json
+C:\Users\ANGEL\Desktop\Meyah_page\MeyahUI\Meyah.Models\bin\Debug\netcoreapp3.1\Meyah.Models.dll
+C:\Users\ANGEL\Desktop\Meyah_page\MeyahUI\Meyah.Models\bin\Debug\netcoreapp3.1\Meyah.Models.pdb
+C:\Users\ANGEL\Desktop\Meyah_page\MeyahUI\Meyah.Models\obj\Debug\netcoreapp3.1\Meyah.Models.csprojAssemblyReference.cache
+C:\Users\ANGEL\Desktop\Meyah_page\MeyahUI\Meyah.Models\obj\Debug\netcoreapp3.1\Meyah.Models.AssemblyInfoInputs.cache
+C:\Users\ANGEL\Desktop\Meyah_page\MeyahUI\Meyah.Models\obj\Debug\netcoreapp3.1\Meyah.Models.AssemblyInfo.cs
+C:\Users\ANGEL\Desktop\Meyah_page\MeyahUI\Meyah.Models\obj\Debug\netcoreapp3.1\Meyah.Models.csproj.CoreCompileInputs.cache
+C:\Users\ANGEL\Desktop\Meyah_page\MeyahUI\Meyah.Models\obj\Debug\netcoreapp3.1\Meyah.Models.dll
+C:\Users\ANGEL\Desktop\Meyah_page\MeyahUI\Meyah.Models\obj\Debug\netcoreapp3.1\Meyah.Models.pdb
+C:\Users\ANGEL\Desktop\bd\Meyah_page\MeyahUI\Meyah.Models\bin\Debug\netcoreapp3.1\Meyah.Models.deps.json
+C:\Users\ANGEL\Desktop\bd\Meyah_page\MeyahUI\Meyah.Models\bin\Debug\netcoreapp3.1\Meyah.Models.dll
+C:\Users\ANGEL\Desktop\bd\Meyah_page\MeyahUI\Meyah.Models\bin\Debug\netcoreapp3.1\Meyah.Models.pdb
+C:\Users\ANGEL\Desktop\bd\Meyah_page\MeyahUI\Meyah.Models\obj\Debug\netcoreapp3.1\Meyah.Models.csprojAssemblyReference.cache
+C:\Users\ANGEL\Desktop\bd\Meyah_page\MeyahUI\Meyah.Models\obj\Debug\netcoreapp3.1\Meyah.Models.AssemblyInfoInputs.cache
+C:\Users\ANGEL\Desktop\bd\Meyah_page\MeyahUI\Meyah.Models\obj\Debug\netcoreapp3.1\Meyah.Models.AssemblyInfo.cs
+C:\Users\ANGEL\Desktop\bd\Meyah_page\MeyahUI\Meyah.Models\obj\Debug\netcoreapp3.1\Meyah.Models.csproj.CoreCompileInputs.cache
+C:\Users\ANGEL\Desktop\bd\Meyah_page\MeyahUI\Meyah.Models\obj\Debug\netcoreapp3.1\Meyah.Models.dll
+C:\Users\ANGEL\Desktop\bd\Meyah_page\MeyahUI\Meyah.Models\obj\Debug\netcoreapp3.1\Meyah.Models.pdb
+C:\Users\ANGEL\Desktop\MeyahUI\Meyah.Models\bin\Debug\netcoreapp3.1\Meyah.Models.deps.json
+C:\Users\ANGEL\Desktop\MeyahUI\Meyah.Models\bin\Debug\netcoreapp3.1\Meyah.Models.dll
+C:\Users\ANGEL\Desktop\MeyahUI\Meyah.Models\bin\Debug\netcoreapp3.1\Meyah.Models.pdb
+C:\Users\ANGEL\Desktop\MeyahUI\Meyah.Models\obj\Debug\netcoreapp3.1\Meyah.Models.csprojAssemblyReference.cache
+C:\Users\ANGEL\Desktop\MeyahUI\Meyah.Models\obj\Debug\netcoreapp3.1\Meyah.Models.AssemblyInfoInputs.cache
+C:\Users\ANGEL\Desktop\MeyahUI\Meyah.Models\obj\Debug\netcoreapp3.1\Meyah.Models.AssemblyInfo.cs
+C:\Users\ANGEL\Desktop\MeyahUI\Meyah.Models\obj\Debug\netcoreapp3.1\Meyah.Models.csproj.CoreCompileInputs.cache
+C:\Users\ANGEL\Desktop\MeyahUI\Meyah.Models\obj\Debug\netcoreapp3.1\Meyah.Models.dll
+C:\Users\ANGEL\Desktop\MeyahUI\Meyah.Models\obj\Debug\netcoreapp3.1\Meyah.Models.pdb

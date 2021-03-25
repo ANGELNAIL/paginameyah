@@ -1,0 +1,453 @@
+C:\Users\ANGEL\source\repos\MeyahUI\Meyah\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\ANGEL\source\repos\MeyahUI\Meyah\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\ANGEL\source\repos\MeyahUI\Meyah\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\ANGEL\source\repos\MeyahUI\Meyah\bin\Debug\netcoreapp3.1\Meyah.exe
+C:\Users\ANGEL\source\repos\MeyahUI\Meyah\bin\Debug\netcoreapp3.1\Meyah.deps.json
+C:\Users\ANGEL\source\repos\MeyahUI\Meyah\bin\Debug\netcoreapp3.1\Meyah.runtimeconfig.json
+C:\Users\ANGEL\source\repos\MeyahUI\Meyah\bin\Debug\netcoreapp3.1\Meyah.runtimeconfig.dev.json
+C:\Users\ANGEL\source\repos\MeyahUI\Meyah\bin\Debug\netcoreapp3.1\Meyah.dll
+C:\Users\ANGEL\source\repos\MeyahUI\Meyah\bin\Debug\netcoreapp3.1\Meyah.pdb
+C:\Users\ANGEL\source\repos\MeyahUI\Meyah\bin\Debug\netcoreapp3.1\Meyah.Views.dll
+C:\Users\ANGEL\source\repos\MeyahUI\Meyah\bin\Debug\netcoreapp3.1\Meyah.Views.pdb
+C:\Users\ANGEL\source\repos\MeyahUI\Meyah\obj\Debug\netcoreapp3.1\Meyah.csprojAssemblyReference.cache
+C:\Users\ANGEL\source\repos\MeyahUI\Meyah\obj\Debug\netcoreapp3.1\Meyah.AssemblyInfoInputs.cache
+C:\Users\ANGEL\source\repos\MeyahUI\Meyah\obj\Debug\netcoreapp3.1\Meyah.AssemblyInfo.cs
+C:\Users\ANGEL\source\repos\MeyahUI\Meyah\obj\Debug\netcoreapp3.1\Meyah.csproj.CoreCompileInputs.cache
+C:\Users\ANGEL\source\repos\MeyahUI\Meyah\obj\Debug\netcoreapp3.1\Meyah.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\ANGEL\source\repos\MeyahUI\Meyah\obj\Debug\netcoreapp3.1\Meyah.RazorAssemblyInfo.cache
+C:\Users\ANGEL\source\repos\MeyahUI\Meyah\obj\Debug\netcoreapp3.1\Meyah.RazorAssemblyInfo.cs
+C:\Users\ANGEL\source\repos\MeyahUI\Meyah\obj\Debug\netcoreapp3.1\Meyah.TagHelpers.input.cache
+C:\Users\ANGEL\source\repos\MeyahUI\Meyah\obj\Debug\netcoreapp3.1\Meyah.TagHelpers.output.cache
+C:\Users\ANGEL\source\repos\MeyahUI\Meyah\obj\Debug\netcoreapp3.1\Meyah.RazorCoreGenerate.cache
+C:\Users\ANGEL\source\repos\MeyahUI\Meyah\obj\Debug\netcoreapp3.1\Razor\Pages\Error.cshtml.g.cs
+C:\Users\ANGEL\source\repos\MeyahUI\Meyah\obj\Debug\netcoreapp3.1\Razor\Pages\Index.cshtml.g.cs
+C:\Users\ANGEL\source\repos\MeyahUI\Meyah\obj\Debug\netcoreapp3.1\Razor\Pages\Privacy.cshtml.g.cs
+C:\Users\ANGEL\source\repos\MeyahUI\Meyah\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_Layout.cshtml.g.cs
+C:\Users\ANGEL\source\repos\MeyahUI\Meyah\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\ANGEL\source\repos\MeyahUI\Meyah\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewImports.cshtml.g.cs
+C:\Users\ANGEL\source\repos\MeyahUI\Meyah\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewStart.cshtml.g.cs
+C:\Users\ANGEL\source\repos\MeyahUI\Meyah\obj\Debug\netcoreapp3.1\Meyah.RazorTargetAssemblyInfo.cache
+C:\Users\ANGEL\source\repos\MeyahUI\Meyah\obj\Debug\netcoreapp3.1\Meyah.RazorTargetAssemblyInfo.cs
+C:\Users\ANGEL\source\repos\MeyahUI\Meyah\obj\Debug\netcoreapp3.1\Meyah.Views.pdb
+C:\Users\ANGEL\source\repos\MeyahUI\Meyah\obj\Debug\netcoreapp3.1\staticwebassets\Meyah.StaticWebAssets.Manifest.cache
+C:\Users\ANGEL\source\repos\MeyahUI\Meyah\obj\Debug\netcoreapp3.1\staticwebassets\Meyah.StaticWebAssets.xml
+C:\Users\ANGEL\source\repos\MeyahUI\Meyah\obj\Debug\netcoreapp3.1\Meyah.dll
+C:\Users\ANGEL\source\repos\MeyahUI\Meyah\obj\Debug\netcoreapp3.1\Meyah.pdb
+C:\Users\ANGEL\source\repos\MeyahUI\Meyah\obj\Debug\netcoreapp3.1\Meyah.genruntimeconfig.cache
+C:\Users\ANGEL\source\repos\MeyahUI\Meyah\obj\Debug\netcoreapp3.1\Meyah.csproj.CopyComplete
+C:\Users\ANGEL\source\repos\MeyahUI\Meyah\obj\Debug\netcoreapp3.1\Razor\Pages\pagina\Index.cshtml.g.cs
+C:\Users\ANGEL\source\repos\MeyahUI\Meyah\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\Diseño_Layout.cshtml.g.cs
+C:\Users\ANGEL\source\repos\MeyahUI\Meyah\obj\Debug\netcoreapp3.1\Razor\Pages\pagina\Login.cshtml.g.cs
+C:\Users\ANGEL\source\repos\MeyahUI\Meyah\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\Login_Layout.cshtml.g.cs
+C:\Users\ANGEL\source\repos\Meyah_page\MeyahUI\Meyah\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\ANGEL\source\repos\Meyah_page\MeyahUI\Meyah\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\ANGEL\source\repos\Meyah_page\MeyahUI\Meyah\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\ANGEL\source\repos\Meyah_page\MeyahUI\Meyah\bin\Debug\netcoreapp3.1\Meyah.exe
+C:\Users\ANGEL\source\repos\Meyah_page\MeyahUI\Meyah\bin\Debug\netcoreapp3.1\Meyah.deps.json
+C:\Users\ANGEL\source\repos\Meyah_page\MeyahUI\Meyah\bin\Debug\netcoreapp3.1\Meyah.runtimeconfig.json
+C:\Users\ANGEL\source\repos\Meyah_page\MeyahUI\Meyah\bin\Debug\netcoreapp3.1\Meyah.runtimeconfig.dev.json
+C:\Users\ANGEL\source\repos\Meyah_page\MeyahUI\Meyah\bin\Debug\netcoreapp3.1\Meyah.dll
+C:\Users\ANGEL\source\repos\Meyah_page\MeyahUI\Meyah\bin\Debug\netcoreapp3.1\Meyah.pdb
+C:\Users\ANGEL\source\repos\Meyah_page\MeyahUI\Meyah\bin\Debug\netcoreapp3.1\Meyah.Views.dll
+C:\Users\ANGEL\source\repos\Meyah_page\MeyahUI\Meyah\bin\Debug\netcoreapp3.1\Meyah.Views.pdb
+C:\Users\ANGEL\source\repos\Meyah_page\MeyahUI\Meyah\obj\Debug\netcoreapp3.1\Meyah.csprojAssemblyReference.cache
+C:\Users\ANGEL\source\repos\Meyah_page\MeyahUI\Meyah\obj\Debug\netcoreapp3.1\Meyah.AssemblyInfoInputs.cache
+C:\Users\ANGEL\source\repos\Meyah_page\MeyahUI\Meyah\obj\Debug\netcoreapp3.1\Meyah.AssemblyInfo.cs
+C:\Users\ANGEL\source\repos\Meyah_page\MeyahUI\Meyah\obj\Debug\netcoreapp3.1\Meyah.RazorAssemblyInfo.cache
+C:\Users\ANGEL\source\repos\Meyah_page\MeyahUI\Meyah\obj\Debug\netcoreapp3.1\Meyah.RazorAssemblyInfo.cs
+C:\Users\ANGEL\source\repos\Meyah_page\MeyahUI\Meyah\obj\Debug\netcoreapp3.1\Meyah.TagHelpers.input.cache
+C:\Users\ANGEL\source\repos\Meyah_page\MeyahUI\Meyah\obj\Debug\netcoreapp3.1\Meyah.TagHelpers.output.cache
+C:\Users\ANGEL\source\repos\Meyah_page\MeyahUI\Meyah\obj\Debug\netcoreapp3.1\Meyah.RazorCoreGenerate.cache
+C:\Users\ANGEL\source\repos\Meyah_page\MeyahUI\Meyah\obj\Debug\netcoreapp3.1\Razor\Pages\Error.cshtml.g.cs
+C:\Users\ANGEL\source\repos\Meyah_page\MeyahUI\Meyah\obj\Debug\netcoreapp3.1\Razor\Pages\Index.cshtml.g.cs
+C:\Users\ANGEL\source\repos\Meyah_page\MeyahUI\Meyah\obj\Debug\netcoreapp3.1\Razor\Pages\pagina\Index.cshtml.g.cs
+C:\Users\ANGEL\source\repos\Meyah_page\MeyahUI\Meyah\obj\Debug\netcoreapp3.1\Razor\Pages\pagina\Login.cshtml.g.cs
+C:\Users\ANGEL\source\repos\Meyah_page\MeyahUI\Meyah\obj\Debug\netcoreapp3.1\Razor\Pages\Privacy.cshtml.g.cs
+C:\Users\ANGEL\source\repos\Meyah_page\MeyahUI\Meyah\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\Diseño_Layout.cshtml.g.cs
+C:\Users\ANGEL\source\repos\Meyah_page\MeyahUI\Meyah\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\Login_Layout.cshtml.g.cs
+C:\Users\ANGEL\source\repos\Meyah_page\MeyahUI\Meyah\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_Layout.cshtml.g.cs
+C:\Users\ANGEL\source\repos\Meyah_page\MeyahUI\Meyah\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\ANGEL\source\repos\Meyah_page\MeyahUI\Meyah\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewImports.cshtml.g.cs
+C:\Users\ANGEL\source\repos\Meyah_page\MeyahUI\Meyah\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewStart.cshtml.g.cs
+C:\Users\ANGEL\source\repos\Meyah_page\MeyahUI\Meyah\obj\Debug\netcoreapp3.1\Meyah.RazorTargetAssemblyInfo.cache
+C:\Users\ANGEL\source\repos\Meyah_page\MeyahUI\Meyah\obj\Debug\netcoreapp3.1\Meyah.RazorTargetAssemblyInfo.cs
+C:\Users\ANGEL\source\repos\Meyah_page\MeyahUI\Meyah\obj\Debug\netcoreapp3.1\Meyah.Views.pdb
+C:\Users\ANGEL\source\repos\Meyah_page\MeyahUI\Meyah\obj\Debug\netcoreapp3.1\staticwebassets\Meyah.StaticWebAssets.Manifest.cache
+C:\Users\ANGEL\source\repos\Meyah_page\MeyahUI\Meyah\obj\Debug\netcoreapp3.1\staticwebassets\Meyah.StaticWebAssets.xml
+C:\Users\ANGEL\source\repos\Meyah_page\MeyahUI\Meyah\obj\Debug\netcoreapp3.1\Meyah.dll
+C:\Users\ANGEL\source\repos\Meyah_page\MeyahUI\Meyah\obj\Debug\netcoreapp3.1\Meyah.pdb
+C:\Users\ANGEL\source\repos\Meyah_page\MeyahUI\Meyah\obj\Debug\netcoreapp3.1\Meyah.genruntimeconfig.cache
+C:\Users\ANGEL\source\repos\Meyah_page\MeyahUI\Meyah\obj\Debug\netcoreapp3.1\Meyah.csproj.CopyComplete
+C:\Users\ANGEL\source\repos\Meyah_page\MeyahUI\Meyah\obj\Debug\netcoreapp3.1\Razor\Pages\pagina\Productos\ProductoAlta.cshtml.g.cs
+C:\Users\ANGEL\source\repos\Meyah_page\MeyahUI\Meyah\obj\Debug\netcoreapp3.1\Razor\Pages\pagina\Empleados\Index.cshtml.g.cs
+C:\Users\ANGEL\source\repos\Meyah_page\MeyahUI\Meyah\obj\Debug\netcoreapp3.1\Razor\Pages\pagina\Productos\ProductoVista.cshtml.g.cs
+C:\Users\ANGEL\source\repos\Meyah_page\MeyahUI\Meyah\obj\Debug\netcoreapp3.1\Meyah.csproj.CoreCompileInputs.cache
+C:\Users\ANGEL\source\repos\Meyah_page\MeyahUI\Meyah\obj\Debug\netcoreapp3.1\Meyah.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\ANGEL\source\repos\Meyah_page\MeyahUI\Meyah\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\ANGEL\source\repos\Meyah_page\MeyahUI\Meyah\bin\Debug\netcoreapp3.1\Meyah.Models.dll
+C:\Users\ANGEL\source\repos\Meyah_page\MeyahUI\Meyah\bin\Debug\netcoreapp3.1\Meyah.Services.dll
+C:\Users\ANGEL\source\repos\Meyah_page\MeyahUI\Meyah\bin\Debug\netcoreapp3.1\Meyah.Models.pdb
+C:\Users\ANGEL\source\repos\Meyah_page\MeyahUI\Meyah\bin\Debug\netcoreapp3.1\Meyah.Services.pdb
+C:\Users\ANGEL\source\repos\Meyah_page\MeyahUI\Meyah\obj\Debug\netcoreapp3.1\Razor\Pages\pagina\Usuarios\UsuariosVista.cshtml.g.cs
+C:\Users\ANGEL\source\repos\Meyah_page\MeyahUI\Meyah\obj\Debug\netcoreapp3.1\Razor\Pages\pagina\Clientes\ClienteVista.cshtml.g.cs
+C:\Users\ANGEL\source\repos\Meyah_page\MeyahUI\Meyah\obj\Debug\netcoreapp3.1\Razor\Pages\pagina\Empleados\Create.cshtml.g.cs
+C:\Users\ANGEL\source\repos\Meyah_page\MeyahUI\Meyah\obj\Debug\netcoreapp3.1\Razor\Pages\pagina\Empleados\Delete.cshtml.g.cs
+C:\Users\ANGEL\source\repos\Meyah_page\MeyahUI\Meyah\obj\Debug\netcoreapp3.1\Razor\Pages\pagina\Empleados\Details.cshtml.g.cs
+C:\Users\ANGEL\source\repos\Meyah_page\MeyahUI\Meyah\obj\Debug\netcoreapp3.1\Razor\Pages\pagina\Empleados\Edit.cshtml.g.cs
+C:\Users\ANGEL\source\repos\Meyah_page\MeyahUI\Meyah\obj\Debug\netcoreapp3.1\Razor\Pages\pagina\Pedidos\Create.cshtml.g.cs
+C:\Users\ANGEL\source\repos\Meyah_page\MeyahUI\Meyah\obj\Debug\netcoreapp3.1\Razor\Pages\pagina\Pedidos\Delete.cshtml.g.cs
+C:\Users\ANGEL\source\repos\Meyah_page\MeyahUI\Meyah\obj\Debug\netcoreapp3.1\Razor\Pages\pagina\Pedidos\Details.cshtml.g.cs
+C:\Users\ANGEL\source\repos\Meyah_page\MeyahUI\Meyah\obj\Debug\netcoreapp3.1\Razor\Pages\pagina\Pedidos\Edit.cshtml.g.cs
+C:\Users\ANGEL\source\repos\Meyah_page\MeyahUI\Meyah\obj\Debug\netcoreapp3.1\Razor\Pages\pagina\Pedidos\Index.cshtml.g.cs
+C:\Users\ANGEL\source\repos\Meyah_page\MeyahUI\Meyah\obj\Debug\netcoreapp3.1\Razor\Pages\pagina\Tareas\Create.cshtml.g.cs
+C:\Users\ANGEL\source\repos\Meyah_page\MeyahUI\Meyah\obj\Debug\netcoreapp3.1\Razor\Pages\pagina\Tareas\Delete.cshtml.g.cs
+C:\Users\ANGEL\source\repos\Meyah_page\MeyahUI\Meyah\obj\Debug\netcoreapp3.1\Razor\Pages\pagina\Tareas\Details.cshtml.g.cs
+C:\Users\ANGEL\source\repos\Meyah_page\MeyahUI\Meyah\obj\Debug\netcoreapp3.1\Razor\Pages\pagina\Tareas\Edit.cshtml.g.cs
+C:\Users\ANGEL\source\repos\Meyah_page\MeyahUI\Meyah\obj\Debug\netcoreapp3.1\Razor\Pages\pagina\Tareas\Index.cshtml.g.cs
+C:\Users\ANGEL\source\repos\Meyah_page\MeyahUI\Meyah\obj\Debug\netcoreapp3.1\Razor\Pages\pagina\Productos\Delete.cshtml.g.cs
+C:\Users\ANGEL\source\repos\Meyah_page\MeyahUI\Meyah\obj\Debug\netcoreapp3.1\Razor\Pages\pagina\Productos\Details.cshtml.g.cs
+C:\Users\ANGEL\source\repos\Meyah_page\MeyahUI\Meyah\obj\Debug\netcoreapp3.1\Razor\Pages\pagina\Productos\Edit.cshtml.g.cs
+C:\Users\ANGEL\Desktop\Meyah_page\Meyah_page\MeyahUI\Meyah\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\ANGEL\Desktop\Meyah_page\Meyah_page\MeyahUI\Meyah\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\ANGEL\Desktop\Meyah_page\Meyah_page\MeyahUI\Meyah\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\ANGEL\Desktop\Meyah_page\Meyah_page\MeyahUI\Meyah\bin\Debug\netcoreapp3.1\Meyah.exe
+C:\Users\ANGEL\Desktop\Meyah_page\Meyah_page\MeyahUI\Meyah\bin\Debug\netcoreapp3.1\Meyah.deps.json
+C:\Users\ANGEL\Desktop\Meyah_page\Meyah_page\MeyahUI\Meyah\bin\Debug\netcoreapp3.1\Meyah.runtimeconfig.json
+C:\Users\ANGEL\Desktop\Meyah_page\Meyah_page\MeyahUI\Meyah\bin\Debug\netcoreapp3.1\Meyah.runtimeconfig.dev.json
+C:\Users\ANGEL\Desktop\Meyah_page\Meyah_page\MeyahUI\Meyah\bin\Debug\netcoreapp3.1\Meyah.dll
+C:\Users\ANGEL\Desktop\Meyah_page\Meyah_page\MeyahUI\Meyah\bin\Debug\netcoreapp3.1\Meyah.pdb
+C:\Users\ANGEL\Desktop\Meyah_page\Meyah_page\MeyahUI\Meyah\bin\Debug\netcoreapp3.1\Meyah.Views.dll
+C:\Users\ANGEL\Desktop\Meyah_page\Meyah_page\MeyahUI\Meyah\bin\Debug\netcoreapp3.1\Meyah.Views.pdb
+C:\Users\ANGEL\Desktop\Meyah_page\Meyah_page\MeyahUI\Meyah\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\ANGEL\Desktop\Meyah_page\Meyah_page\MeyahUI\Meyah\bin\Debug\netcoreapp3.1\Meyah.Models.dll
+C:\Users\ANGEL\Desktop\Meyah_page\Meyah_page\MeyahUI\Meyah\bin\Debug\netcoreapp3.1\Meyah.Services.dll
+C:\Users\ANGEL\Desktop\Meyah_page\Meyah_page\MeyahUI\Meyah\bin\Debug\netcoreapp3.1\Meyah.Models.pdb
+C:\Users\ANGEL\Desktop\Meyah_page\Meyah_page\MeyahUI\Meyah\bin\Debug\netcoreapp3.1\Meyah.Services.pdb
+C:\Users\ANGEL\Desktop\Meyah_page\Meyah_page\MeyahUI\Meyah\obj\Debug\netcoreapp3.1\Meyah.csprojAssemblyReference.cache
+C:\Users\ANGEL\Desktop\Meyah_page\Meyah_page\MeyahUI\Meyah\obj\Debug\netcoreapp3.1\Meyah.AssemblyInfoInputs.cache
+C:\Users\ANGEL\Desktop\Meyah_page\Meyah_page\MeyahUI\Meyah\obj\Debug\netcoreapp3.1\Meyah.AssemblyInfo.cs
+C:\Users\ANGEL\Desktop\Meyah_page\Meyah_page\MeyahUI\Meyah\obj\Debug\netcoreapp3.1\Meyah.csproj.CoreCompileInputs.cache
+C:\Users\ANGEL\Desktop\Meyah_page\Meyah_page\MeyahUI\Meyah\obj\Debug\netcoreapp3.1\Meyah.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\ANGEL\Desktop\Meyah_page\Meyah_page\MeyahUI\Meyah\obj\Debug\netcoreapp3.1\Meyah.RazorAssemblyInfo.cache
+C:\Users\ANGEL\Desktop\Meyah_page\Meyah_page\MeyahUI\Meyah\obj\Debug\netcoreapp3.1\Meyah.RazorAssemblyInfo.cs
+C:\Users\ANGEL\Desktop\Meyah_page\Meyah_page\MeyahUI\Meyah\obj\Debug\netcoreapp3.1\Meyah.TagHelpers.input.cache
+C:\Users\ANGEL\Desktop\Meyah_page\Meyah_page\MeyahUI\Meyah\obj\Debug\netcoreapp3.1\Meyah.TagHelpers.output.cache
+C:\Users\ANGEL\Desktop\Meyah_page\Meyah_page\MeyahUI\Meyah\obj\Debug\netcoreapp3.1\Meyah.RazorCoreGenerate.cache
+C:\Users\ANGEL\Desktop\Meyah_page\Meyah_page\MeyahUI\Meyah\obj\Debug\netcoreapp3.1\Razor\Pages\Error.cshtml.g.cs
+C:\Users\ANGEL\Desktop\Meyah_page\Meyah_page\MeyahUI\Meyah\obj\Debug\netcoreapp3.1\Razor\Pages\pagina\Clientes\ClienteVista.cshtml.g.cs
+C:\Users\ANGEL\Desktop\Meyah_page\Meyah_page\MeyahUI\Meyah\obj\Debug\netcoreapp3.1\Razor\Pages\pagina\Empleados\Create.cshtml.g.cs
+C:\Users\ANGEL\Desktop\Meyah_page\Meyah_page\MeyahUI\Meyah\obj\Debug\netcoreapp3.1\Razor\Pages\pagina\Empleados\Delete.cshtml.g.cs
+C:\Users\ANGEL\Desktop\Meyah_page\Meyah_page\MeyahUI\Meyah\obj\Debug\netcoreapp3.1\Razor\Pages\pagina\Empleados\Details.cshtml.g.cs
+C:\Users\ANGEL\Desktop\Meyah_page\Meyah_page\MeyahUI\Meyah\obj\Debug\netcoreapp3.1\Razor\Pages\pagina\Empleados\Edit.cshtml.g.cs
+C:\Users\ANGEL\Desktop\Meyah_page\Meyah_page\MeyahUI\Meyah\obj\Debug\netcoreapp3.1\Razor\Pages\pagina\Empleados\Index.cshtml.g.cs
+C:\Users\ANGEL\Desktop\Meyah_page\Meyah_page\MeyahUI\Meyah\obj\Debug\netcoreapp3.1\Razor\Pages\pagina\Index.cshtml.g.cs
+C:\Users\ANGEL\Desktop\Meyah_page\Meyah_page\MeyahUI\Meyah\obj\Debug\netcoreapp3.1\Razor\Pages\pagina\Login.cshtml.g.cs
+C:\Users\ANGEL\Desktop\Meyah_page\Meyah_page\MeyahUI\Meyah\obj\Debug\netcoreapp3.1\Razor\Pages\pagina\Pedidos\Create.cshtml.g.cs
+C:\Users\ANGEL\Desktop\Meyah_page\Meyah_page\MeyahUI\Meyah\obj\Debug\netcoreapp3.1\Razor\Pages\pagina\Pedidos\Delete.cshtml.g.cs
+C:\Users\ANGEL\Desktop\Meyah_page\Meyah_page\MeyahUI\Meyah\obj\Debug\netcoreapp3.1\Razor\Pages\pagina\Pedidos\Details.cshtml.g.cs
+C:\Users\ANGEL\Desktop\Meyah_page\Meyah_page\MeyahUI\Meyah\obj\Debug\netcoreapp3.1\Razor\Pages\pagina\Pedidos\Edit.cshtml.g.cs
+C:\Users\ANGEL\Desktop\Meyah_page\Meyah_page\MeyahUI\Meyah\obj\Debug\netcoreapp3.1\Razor\Pages\pagina\Pedidos\Index.cshtml.g.cs
+C:\Users\ANGEL\Desktop\Meyah_page\Meyah_page\MeyahUI\Meyah\obj\Debug\netcoreapp3.1\Razor\Pages\pagina\Productos\Delete.cshtml.g.cs
+C:\Users\ANGEL\Desktop\Meyah_page\Meyah_page\MeyahUI\Meyah\obj\Debug\netcoreapp3.1\Razor\Pages\pagina\Productos\Details.cshtml.g.cs
+C:\Users\ANGEL\Desktop\Meyah_page\Meyah_page\MeyahUI\Meyah\obj\Debug\netcoreapp3.1\Razor\Pages\pagina\Productos\Edit.cshtml.g.cs
+C:\Users\ANGEL\Desktop\Meyah_page\Meyah_page\MeyahUI\Meyah\obj\Debug\netcoreapp3.1\Razor\Pages\pagina\Productos\ProductoAlta.cshtml.g.cs
+C:\Users\ANGEL\Desktop\Meyah_page\Meyah_page\MeyahUI\Meyah\obj\Debug\netcoreapp3.1\Razor\Pages\pagina\Productos\ProductoVista.cshtml.g.cs
+C:\Users\ANGEL\Desktop\Meyah_page\Meyah_page\MeyahUI\Meyah\obj\Debug\netcoreapp3.1\Razor\Pages\pagina\Tareas\Create.cshtml.g.cs
+C:\Users\ANGEL\Desktop\Meyah_page\Meyah_page\MeyahUI\Meyah\obj\Debug\netcoreapp3.1\Razor\Pages\pagina\Tareas\Delete.cshtml.g.cs
+C:\Users\ANGEL\Desktop\Meyah_page\Meyah_page\MeyahUI\Meyah\obj\Debug\netcoreapp3.1\Razor\Pages\pagina\Tareas\Details.cshtml.g.cs
+C:\Users\ANGEL\Desktop\Meyah_page\Meyah_page\MeyahUI\Meyah\obj\Debug\netcoreapp3.1\Razor\Pages\pagina\Tareas\Edit.cshtml.g.cs
+C:\Users\ANGEL\Desktop\Meyah_page\Meyah_page\MeyahUI\Meyah\obj\Debug\netcoreapp3.1\Razor\Pages\pagina\Tareas\Index.cshtml.g.cs
+C:\Users\ANGEL\Desktop\Meyah_page\Meyah_page\MeyahUI\Meyah\obj\Debug\netcoreapp3.1\Razor\Pages\pagina\Usuarios\UsuariosVista.cshtml.g.cs
+C:\Users\ANGEL\Desktop\Meyah_page\Meyah_page\MeyahUI\Meyah\obj\Debug\netcoreapp3.1\Razor\Pages\Privacy.cshtml.g.cs
+C:\Users\ANGEL\Desktop\Meyah_page\Meyah_page\MeyahUI\Meyah\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\Diseño_Layout.cshtml.g.cs
+C:\Users\ANGEL\Desktop\Meyah_page\Meyah_page\MeyahUI\Meyah\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\Login_Layout.cshtml.g.cs
+C:\Users\ANGEL\Desktop\Meyah_page\Meyah_page\MeyahUI\Meyah\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_Layout.cshtml.g.cs
+C:\Users\ANGEL\Desktop\Meyah_page\Meyah_page\MeyahUI\Meyah\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\ANGEL\Desktop\Meyah_page\Meyah_page\MeyahUI\Meyah\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewImports.cshtml.g.cs
+C:\Users\ANGEL\Desktop\Meyah_page\Meyah_page\MeyahUI\Meyah\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewStart.cshtml.g.cs
+C:\Users\ANGEL\Desktop\Meyah_page\Meyah_page\MeyahUI\Meyah\obj\Debug\netcoreapp3.1\Meyah.RazorTargetAssemblyInfo.cache
+C:\Users\ANGEL\Desktop\Meyah_page\Meyah_page\MeyahUI\Meyah\obj\Debug\netcoreapp3.1\Meyah.RazorTargetAssemblyInfo.cs
+C:\Users\ANGEL\Desktop\Meyah_page\Meyah_page\MeyahUI\Meyah\obj\Debug\netcoreapp3.1\Meyah.Views.pdb
+C:\Users\ANGEL\Desktop\Meyah_page\Meyah_page\MeyahUI\Meyah\obj\Debug\netcoreapp3.1\Meyah.csproj.CopyComplete
+C:\Users\ANGEL\Desktop\Meyah_page\Meyah_page\MeyahUI\Meyah\obj\Debug\netcoreapp3.1\staticwebassets\Meyah.StaticWebAssets.Manifest.cache
+C:\Users\ANGEL\Desktop\Meyah_page\Meyah_page\MeyahUI\Meyah\obj\Debug\netcoreapp3.1\staticwebassets\Meyah.StaticWebAssets.xml
+C:\Users\ANGEL\Desktop\Meyah_page\Meyah_page\MeyahUI\Meyah\obj\Debug\netcoreapp3.1\Meyah.dll
+C:\Users\ANGEL\Desktop\Meyah_page\Meyah_page\MeyahUI\Meyah\obj\Debug\netcoreapp3.1\Meyah.pdb
+C:\Users\ANGEL\Desktop\Meyah_page\Meyah_page\MeyahUI\Meyah\obj\Debug\netcoreapp3.1\Meyah.genruntimeconfig.cache
+C:\Users\ANGEL\Desktop\respaldar\meyah proyectos\Meyah_page\MeyahUI\Meyah\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\ANGEL\Desktop\respaldar\meyah proyectos\Meyah_page\MeyahUI\Meyah\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\ANGEL\Desktop\respaldar\meyah proyectos\Meyah_page\MeyahUI\Meyah\bin\Debug\netcoreapp3.1\Meyah.exe
+C:\Users\ANGEL\Desktop\respaldar\meyah proyectos\Meyah_page\MeyahUI\Meyah\bin\Debug\netcoreapp3.1\Meyah.deps.json
+C:\Users\ANGEL\Desktop\respaldar\meyah proyectos\Meyah_page\MeyahUI\Meyah\bin\Debug\netcoreapp3.1\Meyah.runtimeconfig.json
+C:\Users\ANGEL\Desktop\respaldar\meyah proyectos\Meyah_page\MeyahUI\Meyah\bin\Debug\netcoreapp3.1\Meyah.runtimeconfig.dev.json
+C:\Users\ANGEL\Desktop\respaldar\meyah proyectos\Meyah_page\MeyahUI\Meyah\bin\Debug\netcoreapp3.1\Meyah.dll
+C:\Users\ANGEL\Desktop\respaldar\meyah proyectos\Meyah_page\MeyahUI\Meyah\bin\Debug\netcoreapp3.1\Meyah.pdb
+C:\Users\ANGEL\Desktop\respaldar\meyah proyectos\Meyah_page\MeyahUI\Meyah\bin\Debug\netcoreapp3.1\Meyah.Views.dll
+C:\Users\ANGEL\Desktop\respaldar\meyah proyectos\Meyah_page\MeyahUI\Meyah\bin\Debug\netcoreapp3.1\Meyah.Views.pdb
+C:\Users\ANGEL\Desktop\respaldar\meyah proyectos\Meyah_page\MeyahUI\Meyah\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\ANGEL\Desktop\respaldar\meyah proyectos\Meyah_page\MeyahUI\Meyah\bin\Debug\netcoreapp3.1\Meyah.Models.dll
+C:\Users\ANGEL\Desktop\respaldar\meyah proyectos\Meyah_page\MeyahUI\Meyah\bin\Debug\netcoreapp3.1\Meyah.Services.dll
+C:\Users\ANGEL\Desktop\respaldar\meyah proyectos\Meyah_page\MeyahUI\Meyah\bin\Debug\netcoreapp3.1\Meyah.Models.pdb
+C:\Users\ANGEL\Desktop\respaldar\meyah proyectos\Meyah_page\MeyahUI\Meyah\bin\Debug\netcoreapp3.1\Meyah.Services.pdb
+C:\Users\ANGEL\Desktop\respaldar\meyah proyectos\Meyah_page\MeyahUI\Meyah\obj\Debug\netcoreapp3.1\Meyah.csprojAssemblyReference.cache
+C:\Users\ANGEL\Desktop\respaldar\meyah proyectos\Meyah_page\MeyahUI\Meyah\obj\Debug\netcoreapp3.1\Meyah.AssemblyInfoInputs.cache
+C:\Users\ANGEL\Desktop\respaldar\meyah proyectos\Meyah_page\MeyahUI\Meyah\obj\Debug\netcoreapp3.1\Meyah.AssemblyInfo.cs
+C:\Users\ANGEL\Desktop\respaldar\meyah proyectos\Meyah_page\MeyahUI\Meyah\obj\Debug\netcoreapp3.1\Meyah.csproj.CoreCompileInputs.cache
+C:\Users\ANGEL\Desktop\respaldar\meyah proyectos\Meyah_page\MeyahUI\Meyah\obj\Debug\netcoreapp3.1\Meyah.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\ANGEL\Desktop\respaldar\meyah proyectos\Meyah_page\MeyahUI\Meyah\obj\Debug\netcoreapp3.1\Meyah.RazorAssemblyInfo.cache
+C:\Users\ANGEL\Desktop\respaldar\meyah proyectos\Meyah_page\MeyahUI\Meyah\obj\Debug\netcoreapp3.1\Meyah.RazorAssemblyInfo.cs
+C:\Users\ANGEL\Desktop\respaldar\meyah proyectos\Meyah_page\MeyahUI\Meyah\obj\Debug\netcoreapp3.1\staticwebassets\Meyah.StaticWebAssets.Manifest.cache
+C:\Users\ANGEL\Desktop\respaldar\meyah proyectos\Meyah_page\MeyahUI\Meyah\obj\Debug\netcoreapp3.1\staticwebassets\Meyah.StaticWebAssets.xml
+C:\Users\ANGEL\Desktop\respaldar\meyah proyectos\Meyah_page\MeyahUI\Meyah\obj\Debug\netcoreapp3.1\scopedcss\bundle\Meyah.styles.css
+C:\Users\ANGEL\Desktop\respaldar\meyah proyectos\Meyah_page\MeyahUI\Meyah\obj\Debug\netcoreapp3.1\Meyah.TagHelpers.input.cache
+C:\Users\ANGEL\Desktop\respaldar\meyah proyectos\Meyah_page\MeyahUI\Meyah\obj\Debug\netcoreapp3.1\Meyah.TagHelpers.output.cache
+C:\Users\ANGEL\Desktop\respaldar\meyah proyectos\Meyah_page\MeyahUI\Meyah\obj\Debug\netcoreapp3.1\Meyah.RazorCoreGenerate.cache
+C:\Users\ANGEL\Desktop\respaldar\meyah proyectos\Meyah_page\MeyahUI\Meyah\obj\Debug\netcoreapp3.1\Razor\Pages\Error.cshtml.g.cs
+C:\Users\ANGEL\Desktop\respaldar\meyah proyectos\Meyah_page\MeyahUI\Meyah\obj\Debug\netcoreapp3.1\Razor\Pages\pagina\Clientes\ClienteVista.cshtml.g.cs
+C:\Users\ANGEL\Desktop\respaldar\meyah proyectos\Meyah_page\MeyahUI\Meyah\obj\Debug\netcoreapp3.1\Razor\Pages\pagina\Empleados\Create.cshtml.g.cs
+C:\Users\ANGEL\Desktop\respaldar\meyah proyectos\Meyah_page\MeyahUI\Meyah\obj\Debug\netcoreapp3.1\Razor\Pages\pagina\Empleados\Delete.cshtml.g.cs
+C:\Users\ANGEL\Desktop\respaldar\meyah proyectos\Meyah_page\MeyahUI\Meyah\obj\Debug\netcoreapp3.1\Razor\Pages\pagina\Empleados\Details.cshtml.g.cs
+C:\Users\ANGEL\Desktop\respaldar\meyah proyectos\Meyah_page\MeyahUI\Meyah\obj\Debug\netcoreapp3.1\Razor\Pages\pagina\Empleados\Edit.cshtml.g.cs
+C:\Users\ANGEL\Desktop\respaldar\meyah proyectos\Meyah_page\MeyahUI\Meyah\obj\Debug\netcoreapp3.1\Razor\Pages\pagina\Empleados\Index.cshtml.g.cs
+C:\Users\ANGEL\Desktop\respaldar\meyah proyectos\Meyah_page\MeyahUI\Meyah\obj\Debug\netcoreapp3.1\Razor\Pages\pagina\Index.cshtml.g.cs
+C:\Users\ANGEL\Desktop\respaldar\meyah proyectos\Meyah_page\MeyahUI\Meyah\obj\Debug\netcoreapp3.1\Razor\Pages\pagina\Login.cshtml.g.cs
+C:\Users\ANGEL\Desktop\respaldar\meyah proyectos\Meyah_page\MeyahUI\Meyah\obj\Debug\netcoreapp3.1\Razor\Pages\pagina\Pedidos\Create.cshtml.g.cs
+C:\Users\ANGEL\Desktop\respaldar\meyah proyectos\Meyah_page\MeyahUI\Meyah\obj\Debug\netcoreapp3.1\Razor\Pages\pagina\Pedidos\Delete.cshtml.g.cs
+C:\Users\ANGEL\Desktop\respaldar\meyah proyectos\Meyah_page\MeyahUI\Meyah\obj\Debug\netcoreapp3.1\Razor\Pages\pagina\Pedidos\Details.cshtml.g.cs
+C:\Users\ANGEL\Desktop\respaldar\meyah proyectos\Meyah_page\MeyahUI\Meyah\obj\Debug\netcoreapp3.1\Razor\Pages\pagina\Pedidos\Edit.cshtml.g.cs
+C:\Users\ANGEL\Desktop\respaldar\meyah proyectos\Meyah_page\MeyahUI\Meyah\obj\Debug\netcoreapp3.1\Razor\Pages\pagina\Pedidos\Index.cshtml.g.cs
+C:\Users\ANGEL\Desktop\respaldar\meyah proyectos\Meyah_page\MeyahUI\Meyah\obj\Debug\netcoreapp3.1\Razor\Pages\pagina\Productos\Delete.cshtml.g.cs
+C:\Users\ANGEL\Desktop\respaldar\meyah proyectos\Meyah_page\MeyahUI\Meyah\obj\Debug\netcoreapp3.1\Razor\Pages\pagina\Productos\Details.cshtml.g.cs
+C:\Users\ANGEL\Desktop\respaldar\meyah proyectos\Meyah_page\MeyahUI\Meyah\obj\Debug\netcoreapp3.1\Razor\Pages\pagina\Productos\Edit.cshtml.g.cs
+C:\Users\ANGEL\Desktop\respaldar\meyah proyectos\Meyah_page\MeyahUI\Meyah\obj\Debug\netcoreapp3.1\Razor\Pages\pagina\Productos\ProductoAlta.cshtml.g.cs
+C:\Users\ANGEL\Desktop\respaldar\meyah proyectos\Meyah_page\MeyahUI\Meyah\obj\Debug\netcoreapp3.1\Razor\Pages\pagina\Productos\ProductoVista.cshtml.g.cs
+C:\Users\ANGEL\Desktop\respaldar\meyah proyectos\Meyah_page\MeyahUI\Meyah\obj\Debug\netcoreapp3.1\Razor\Pages\pagina\Tareas\Create.cshtml.g.cs
+C:\Users\ANGEL\Desktop\respaldar\meyah proyectos\Meyah_page\MeyahUI\Meyah\obj\Debug\netcoreapp3.1\Razor\Pages\pagina\Tareas\Delete.cshtml.g.cs
+C:\Users\ANGEL\Desktop\respaldar\meyah proyectos\Meyah_page\MeyahUI\Meyah\obj\Debug\netcoreapp3.1\Razor\Pages\pagina\Tareas\Details.cshtml.g.cs
+C:\Users\ANGEL\Desktop\respaldar\meyah proyectos\Meyah_page\MeyahUI\Meyah\obj\Debug\netcoreapp3.1\Razor\Pages\pagina\Tareas\Edit.cshtml.g.cs
+C:\Users\ANGEL\Desktop\respaldar\meyah proyectos\Meyah_page\MeyahUI\Meyah\obj\Debug\netcoreapp3.1\Razor\Pages\pagina\Tareas\Index.cshtml.g.cs
+C:\Users\ANGEL\Desktop\respaldar\meyah proyectos\Meyah_page\MeyahUI\Meyah\obj\Debug\netcoreapp3.1\Razor\Pages\pagina\Usuarios\UsuariosVista.cshtml.g.cs
+C:\Users\ANGEL\Desktop\respaldar\meyah proyectos\Meyah_page\MeyahUI\Meyah\obj\Debug\netcoreapp3.1\Razor\Pages\Privacy.cshtml.g.cs
+C:\Users\ANGEL\Desktop\respaldar\meyah proyectos\Meyah_page\MeyahUI\Meyah\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\Diseño_Layout.cshtml.g.cs
+C:\Users\ANGEL\Desktop\respaldar\meyah proyectos\Meyah_page\MeyahUI\Meyah\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\Login_Layout.cshtml.g.cs
+C:\Users\ANGEL\Desktop\respaldar\meyah proyectos\Meyah_page\MeyahUI\Meyah\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_Layout.cshtml.g.cs
+C:\Users\ANGEL\Desktop\respaldar\meyah proyectos\Meyah_page\MeyahUI\Meyah\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\ANGEL\Desktop\respaldar\meyah proyectos\Meyah_page\MeyahUI\Meyah\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewImports.cshtml.g.cs
+C:\Users\ANGEL\Desktop\respaldar\meyah proyectos\Meyah_page\MeyahUI\Meyah\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewStart.cshtml.g.cs
+C:\Users\ANGEL\Desktop\respaldar\meyah proyectos\Meyah_page\MeyahUI\Meyah\obj\Debug\netcoreapp3.1\Meyah.RazorTargetAssemblyInfo.cache
+C:\Users\ANGEL\Desktop\respaldar\meyah proyectos\Meyah_page\MeyahUI\Meyah\obj\Debug\netcoreapp3.1\Meyah.RazorTargetAssemblyInfo.cs
+C:\Users\ANGEL\Desktop\respaldar\meyah proyectos\Meyah_page\MeyahUI\Meyah\obj\Debug\netcoreapp3.1\Meyah.Views.pdb
+C:\Users\ANGEL\Desktop\respaldar\meyah proyectos\Meyah_page\MeyahUI\Meyah\obj\Debug\netcoreapp3.1\Meyah.csproj.CopyComplete
+C:\Users\ANGEL\Desktop\respaldar\meyah proyectos\Meyah_page\MeyahUI\Meyah\obj\Debug\netcoreapp3.1\Meyah.dll
+C:\Users\ANGEL\Desktop\respaldar\meyah proyectos\Meyah_page\MeyahUI\Meyah\obj\Debug\netcoreapp3.1\Meyah.pdb
+C:\Users\ANGEL\Desktop\respaldar\meyah proyectos\Meyah_page\MeyahUI\Meyah\obj\Debug\netcoreapp3.1\Meyah.genruntimeconfig.cache
+C:\Users\ANGEL\Desktop\respaldar\meyah proyectos\Meyah_page\MeyahUI\Meyah\obj\Debug\netcoreapp3.1\Razor\Pages\pagina\Clientes\Details.cshtml.g.cs
+C:\Users\ANGEL\Desktop\Meyah_page\MeyahUI\Meyah\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\ANGEL\Desktop\Meyah_page\MeyahUI\Meyah\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\ANGEL\Desktop\Meyah_page\MeyahUI\Meyah\bin\Debug\netcoreapp3.1\Meyah.exe
+C:\Users\ANGEL\Desktop\Meyah_page\MeyahUI\Meyah\bin\Debug\netcoreapp3.1\Meyah.deps.json
+C:\Users\ANGEL\Desktop\Meyah_page\MeyahUI\Meyah\bin\Debug\netcoreapp3.1\Meyah.runtimeconfig.json
+C:\Users\ANGEL\Desktop\Meyah_page\MeyahUI\Meyah\bin\Debug\netcoreapp3.1\Meyah.runtimeconfig.dev.json
+C:\Users\ANGEL\Desktop\Meyah_page\MeyahUI\Meyah\bin\Debug\netcoreapp3.1\Meyah.dll
+C:\Users\ANGEL\Desktop\Meyah_page\MeyahUI\Meyah\bin\Debug\netcoreapp3.1\Meyah.pdb
+C:\Users\ANGEL\Desktop\Meyah_page\MeyahUI\Meyah\bin\Debug\netcoreapp3.1\Meyah.Views.dll
+C:\Users\ANGEL\Desktop\Meyah_page\MeyahUI\Meyah\bin\Debug\netcoreapp3.1\Meyah.Views.pdb
+C:\Users\ANGEL\Desktop\Meyah_page\MeyahUI\Meyah\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\ANGEL\Desktop\Meyah_page\MeyahUI\Meyah\bin\Debug\netcoreapp3.1\Meyah.Models.dll
+C:\Users\ANGEL\Desktop\Meyah_page\MeyahUI\Meyah\bin\Debug\netcoreapp3.1\Meyah.Services.dll
+C:\Users\ANGEL\Desktop\Meyah_page\MeyahUI\Meyah\bin\Debug\netcoreapp3.1\Meyah.Models.pdb
+C:\Users\ANGEL\Desktop\Meyah_page\MeyahUI\Meyah\bin\Debug\netcoreapp3.1\Meyah.Services.pdb
+C:\Users\ANGEL\Desktop\Meyah_page\MeyahUI\Meyah\obj\Debug\netcoreapp3.1\Meyah.csprojAssemblyReference.cache
+C:\Users\ANGEL\Desktop\Meyah_page\MeyahUI\Meyah\obj\Debug\netcoreapp3.1\Meyah.AssemblyInfoInputs.cache
+C:\Users\ANGEL\Desktop\Meyah_page\MeyahUI\Meyah\obj\Debug\netcoreapp3.1\Meyah.AssemblyInfo.cs
+C:\Users\ANGEL\Desktop\Meyah_page\MeyahUI\Meyah\obj\Debug\netcoreapp3.1\Meyah.csproj.CoreCompileInputs.cache
+C:\Users\ANGEL\Desktop\Meyah_page\MeyahUI\Meyah\obj\Debug\netcoreapp3.1\Meyah.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\ANGEL\Desktop\Meyah_page\MeyahUI\Meyah\obj\Debug\netcoreapp3.1\Meyah.RazorAssemblyInfo.cache
+C:\Users\ANGEL\Desktop\Meyah_page\MeyahUI\Meyah\obj\Debug\netcoreapp3.1\Meyah.RazorAssemblyInfo.cs
+C:\Users\ANGEL\Desktop\Meyah_page\MeyahUI\Meyah\obj\Debug\netcoreapp3.1\staticwebassets\Meyah.StaticWebAssets.Manifest.cache
+C:\Users\ANGEL\Desktop\Meyah_page\MeyahUI\Meyah\obj\Debug\netcoreapp3.1\staticwebassets\Meyah.StaticWebAssets.xml
+C:\Users\ANGEL\Desktop\Meyah_page\MeyahUI\Meyah\obj\Debug\netcoreapp3.1\scopedcss\bundle\Meyah.styles.css
+C:\Users\ANGEL\Desktop\Meyah_page\MeyahUI\Meyah\obj\Debug\netcoreapp3.1\Meyah.TagHelpers.input.cache
+C:\Users\ANGEL\Desktop\Meyah_page\MeyahUI\Meyah\obj\Debug\netcoreapp3.1\Meyah.TagHelpers.output.cache
+C:\Users\ANGEL\Desktop\Meyah_page\MeyahUI\Meyah\obj\Debug\netcoreapp3.1\Meyah.RazorCoreGenerate.cache
+C:\Users\ANGEL\Desktop\Meyah_page\MeyahUI\Meyah\obj\Debug\netcoreapp3.1\Razor\Pages\Error.cshtml.g.cs
+C:\Users\ANGEL\Desktop\Meyah_page\MeyahUI\Meyah\obj\Debug\netcoreapp3.1\Razor\Pages\pagina\Clientes\ClienteVista.cshtml.g.cs
+C:\Users\ANGEL\Desktop\Meyah_page\MeyahUI\Meyah\obj\Debug\netcoreapp3.1\Razor\Pages\pagina\Clientes\Details.cshtml.g.cs
+C:\Users\ANGEL\Desktop\Meyah_page\MeyahUI\Meyah\obj\Debug\netcoreapp3.1\Razor\Pages\pagina\Empleados\Create.cshtml.g.cs
+C:\Users\ANGEL\Desktop\Meyah_page\MeyahUI\Meyah\obj\Debug\netcoreapp3.1\Razor\Pages\pagina\Empleados\Delete.cshtml.g.cs
+C:\Users\ANGEL\Desktop\Meyah_page\MeyahUI\Meyah\obj\Debug\netcoreapp3.1\Razor\Pages\pagina\Empleados\Details.cshtml.g.cs
+C:\Users\ANGEL\Desktop\Meyah_page\MeyahUI\Meyah\obj\Debug\netcoreapp3.1\Razor\Pages\pagina\Empleados\Edit.cshtml.g.cs
+C:\Users\ANGEL\Desktop\Meyah_page\MeyahUI\Meyah\obj\Debug\netcoreapp3.1\Razor\Pages\pagina\Empleados\Index.cshtml.g.cs
+C:\Users\ANGEL\Desktop\Meyah_page\MeyahUI\Meyah\obj\Debug\netcoreapp3.1\Razor\Pages\pagina\Index.cshtml.g.cs
+C:\Users\ANGEL\Desktop\Meyah_page\MeyahUI\Meyah\obj\Debug\netcoreapp3.1\Razor\Pages\pagina\Login.cshtml.g.cs
+C:\Users\ANGEL\Desktop\Meyah_page\MeyahUI\Meyah\obj\Debug\netcoreapp3.1\Razor\Pages\pagina\Pedidos\Create.cshtml.g.cs
+C:\Users\ANGEL\Desktop\Meyah_page\MeyahUI\Meyah\obj\Debug\netcoreapp3.1\Razor\Pages\pagina\Pedidos\Delete.cshtml.g.cs
+C:\Users\ANGEL\Desktop\Meyah_page\MeyahUI\Meyah\obj\Debug\netcoreapp3.1\Razor\Pages\pagina\Pedidos\Details.cshtml.g.cs
+C:\Users\ANGEL\Desktop\Meyah_page\MeyahUI\Meyah\obj\Debug\netcoreapp3.1\Razor\Pages\pagina\Pedidos\Edit.cshtml.g.cs
+C:\Users\ANGEL\Desktop\Meyah_page\MeyahUI\Meyah\obj\Debug\netcoreapp3.1\Razor\Pages\pagina\Pedidos\Index.cshtml.g.cs
+C:\Users\ANGEL\Desktop\Meyah_page\MeyahUI\Meyah\obj\Debug\netcoreapp3.1\Razor\Pages\pagina\Productos\Delete.cshtml.g.cs
+C:\Users\ANGEL\Desktop\Meyah_page\MeyahUI\Meyah\obj\Debug\netcoreapp3.1\Razor\Pages\pagina\Productos\Details.cshtml.g.cs
+C:\Users\ANGEL\Desktop\Meyah_page\MeyahUI\Meyah\obj\Debug\netcoreapp3.1\Razor\Pages\pagina\Productos\Edit.cshtml.g.cs
+C:\Users\ANGEL\Desktop\Meyah_page\MeyahUI\Meyah\obj\Debug\netcoreapp3.1\Razor\Pages\pagina\Productos\ProductoAlta.cshtml.g.cs
+C:\Users\ANGEL\Desktop\Meyah_page\MeyahUI\Meyah\obj\Debug\netcoreapp3.1\Razor\Pages\pagina\Productos\ProductoVista.cshtml.g.cs
+C:\Users\ANGEL\Desktop\Meyah_page\MeyahUI\Meyah\obj\Debug\netcoreapp3.1\Razor\Pages\pagina\Tareas\Create.cshtml.g.cs
+C:\Users\ANGEL\Desktop\Meyah_page\MeyahUI\Meyah\obj\Debug\netcoreapp3.1\Razor\Pages\pagina\Tareas\Delete.cshtml.g.cs
+C:\Users\ANGEL\Desktop\Meyah_page\MeyahUI\Meyah\obj\Debug\netcoreapp3.1\Razor\Pages\pagina\Tareas\Details.cshtml.g.cs
+C:\Users\ANGEL\Desktop\Meyah_page\MeyahUI\Meyah\obj\Debug\netcoreapp3.1\Razor\Pages\pagina\Tareas\Edit.cshtml.g.cs
+C:\Users\ANGEL\Desktop\Meyah_page\MeyahUI\Meyah\obj\Debug\netcoreapp3.1\Razor\Pages\pagina\Tareas\Index.cshtml.g.cs
+C:\Users\ANGEL\Desktop\Meyah_page\MeyahUI\Meyah\obj\Debug\netcoreapp3.1\Razor\Pages\Privacy.cshtml.g.cs
+C:\Users\ANGEL\Desktop\Meyah_page\MeyahUI\Meyah\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\Diseño_Layout.cshtml.g.cs
+C:\Users\ANGEL\Desktop\Meyah_page\MeyahUI\Meyah\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\Login_Layout.cshtml.g.cs
+C:\Users\ANGEL\Desktop\Meyah_page\MeyahUI\Meyah\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_Layout.cshtml.g.cs
+C:\Users\ANGEL\Desktop\Meyah_page\MeyahUI\Meyah\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\ANGEL\Desktop\Meyah_page\MeyahUI\Meyah\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewImports.cshtml.g.cs
+C:\Users\ANGEL\Desktop\Meyah_page\MeyahUI\Meyah\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewStart.cshtml.g.cs
+C:\Users\ANGEL\Desktop\Meyah_page\MeyahUI\Meyah\obj\Debug\netcoreapp3.1\Meyah.RazorTargetAssemblyInfo.cache
+C:\Users\ANGEL\Desktop\Meyah_page\MeyahUI\Meyah\obj\Debug\netcoreapp3.1\Meyah.RazorTargetAssemblyInfo.cs
+C:\Users\ANGEL\Desktop\Meyah_page\MeyahUI\Meyah\obj\Debug\netcoreapp3.1\Meyah.Views.pdb
+C:\Users\ANGEL\Desktop\Meyah_page\MeyahUI\Meyah\obj\Debug\netcoreapp3.1\Meyah.csproj.CopyComplete
+C:\Users\ANGEL\Desktop\Meyah_page\MeyahUI\Meyah\obj\Debug\netcoreapp3.1\Meyah.dll
+C:\Users\ANGEL\Desktop\Meyah_page\MeyahUI\Meyah\obj\Debug\netcoreapp3.1\Meyah.pdb
+C:\Users\ANGEL\Desktop\Meyah_page\MeyahUI\Meyah\obj\Debug\netcoreapp3.1\Meyah.genruntimeconfig.cache
+C:\Users\ANGEL\Desktop\Meyah_page\MeyahUI\Meyah\obj\Debug\netcoreapp3.1\Razor\Pages\pagina\Clientes\Create.cshtml.g.cs
+C:\Users\ANGEL\Desktop\Meyah_page\MeyahUI\Meyah\obj\Debug\netcoreapp3.1\Razor\Pages\pagina\Clientes\Edit.cshtml.g.cs
+C:\Users\ANGEL\Desktop\bd\Meyah_page\MeyahUI\Meyah\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\ANGEL\Desktop\bd\Meyah_page\MeyahUI\Meyah\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\ANGEL\Desktop\bd\Meyah_page\MeyahUI\Meyah\bin\Debug\netcoreapp3.1\Meyah.exe
+C:\Users\ANGEL\Desktop\bd\Meyah_page\MeyahUI\Meyah\bin\Debug\netcoreapp3.1\Meyah.deps.json
+C:\Users\ANGEL\Desktop\bd\Meyah_page\MeyahUI\Meyah\bin\Debug\netcoreapp3.1\Meyah.runtimeconfig.json
+C:\Users\ANGEL\Desktop\bd\Meyah_page\MeyahUI\Meyah\bin\Debug\netcoreapp3.1\Meyah.runtimeconfig.dev.json
+C:\Users\ANGEL\Desktop\bd\Meyah_page\MeyahUI\Meyah\bin\Debug\netcoreapp3.1\Meyah.dll
+C:\Users\ANGEL\Desktop\bd\Meyah_page\MeyahUI\Meyah\bin\Debug\netcoreapp3.1\Meyah.pdb
+C:\Users\ANGEL\Desktop\bd\Meyah_page\MeyahUI\Meyah\bin\Debug\netcoreapp3.1\Meyah.Views.dll
+C:\Users\ANGEL\Desktop\bd\Meyah_page\MeyahUI\Meyah\bin\Debug\netcoreapp3.1\Meyah.Views.pdb
+C:\Users\ANGEL\Desktop\bd\Meyah_page\MeyahUI\Meyah\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\ANGEL\Desktop\bd\Meyah_page\MeyahUI\Meyah\bin\Debug\netcoreapp3.1\Meyah.Models.dll
+C:\Users\ANGEL\Desktop\bd\Meyah_page\MeyahUI\Meyah\bin\Debug\netcoreapp3.1\Meyah.Services.dll
+C:\Users\ANGEL\Desktop\bd\Meyah_page\MeyahUI\Meyah\bin\Debug\netcoreapp3.1\Meyah.Models.pdb
+C:\Users\ANGEL\Desktop\bd\Meyah_page\MeyahUI\Meyah\bin\Debug\netcoreapp3.1\Meyah.Services.pdb
+C:\Users\ANGEL\Desktop\bd\Meyah_page\MeyahUI\Meyah\obj\Debug\netcoreapp3.1\Meyah.csprojAssemblyReference.cache
+C:\Users\ANGEL\Desktop\bd\Meyah_page\MeyahUI\Meyah\obj\Debug\netcoreapp3.1\Meyah.AssemblyInfoInputs.cache
+C:\Users\ANGEL\Desktop\bd\Meyah_page\MeyahUI\Meyah\obj\Debug\netcoreapp3.1\Meyah.AssemblyInfo.cs
+C:\Users\ANGEL\Desktop\bd\Meyah_page\MeyahUI\Meyah\obj\Debug\netcoreapp3.1\Meyah.csproj.CoreCompileInputs.cache
+C:\Users\ANGEL\Desktop\bd\Meyah_page\MeyahUI\Meyah\obj\Debug\netcoreapp3.1\Meyah.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\ANGEL\Desktop\bd\Meyah_page\MeyahUI\Meyah\obj\Debug\netcoreapp3.1\Meyah.RazorAssemblyInfo.cache
+C:\Users\ANGEL\Desktop\bd\Meyah_page\MeyahUI\Meyah\obj\Debug\netcoreapp3.1\Meyah.RazorAssemblyInfo.cs
+C:\Users\ANGEL\Desktop\bd\Meyah_page\MeyahUI\Meyah\obj\Debug\netcoreapp3.1\staticwebassets\Meyah.StaticWebAssets.Manifest.cache
+C:\Users\ANGEL\Desktop\bd\Meyah_page\MeyahUI\Meyah\obj\Debug\netcoreapp3.1\staticwebassets\Meyah.StaticWebAssets.xml
+C:\Users\ANGEL\Desktop\bd\Meyah_page\MeyahUI\Meyah\obj\Debug\netcoreapp3.1\scopedcss\bundle\Meyah.styles.css
+C:\Users\ANGEL\Desktop\bd\Meyah_page\MeyahUI\Meyah\obj\Debug\netcoreapp3.1\Meyah.TagHelpers.input.cache
+C:\Users\ANGEL\Desktop\bd\Meyah_page\MeyahUI\Meyah\obj\Debug\netcoreapp3.1\Meyah.TagHelpers.output.cache
+C:\Users\ANGEL\Desktop\bd\Meyah_page\MeyahUI\Meyah\obj\Debug\netcoreapp3.1\Meyah.RazorCoreGenerate.cache
+C:\Users\ANGEL\Desktop\bd\Meyah_page\MeyahUI\Meyah\obj\Debug\netcoreapp3.1\Razor\Pages\Error.cshtml.g.cs
+C:\Users\ANGEL\Desktop\bd\Meyah_page\MeyahUI\Meyah\obj\Debug\netcoreapp3.1\Razor\Pages\pagina\Clientes\ClienteVista.cshtml.g.cs
+C:\Users\ANGEL\Desktop\bd\Meyah_page\MeyahUI\Meyah\obj\Debug\netcoreapp3.1\Razor\Pages\pagina\Clientes\Create.cshtml.g.cs
+C:\Users\ANGEL\Desktop\bd\Meyah_page\MeyahUI\Meyah\obj\Debug\netcoreapp3.1\Razor\Pages\pagina\Clientes\Details.cshtml.g.cs
+C:\Users\ANGEL\Desktop\bd\Meyah_page\MeyahUI\Meyah\obj\Debug\netcoreapp3.1\Razor\Pages\pagina\Clientes\Edit.cshtml.g.cs
+C:\Users\ANGEL\Desktop\bd\Meyah_page\MeyahUI\Meyah\obj\Debug\netcoreapp3.1\Razor\Pages\pagina\Empleados\Create.cshtml.g.cs
+C:\Users\ANGEL\Desktop\bd\Meyah_page\MeyahUI\Meyah\obj\Debug\netcoreapp3.1\Razor\Pages\pagina\Empleados\Delete.cshtml.g.cs
+C:\Users\ANGEL\Desktop\bd\Meyah_page\MeyahUI\Meyah\obj\Debug\netcoreapp3.1\Razor\Pages\pagina\Empleados\Details.cshtml.g.cs
+C:\Users\ANGEL\Desktop\bd\Meyah_page\MeyahUI\Meyah\obj\Debug\netcoreapp3.1\Razor\Pages\pagina\Empleados\Edit.cshtml.g.cs
+C:\Users\ANGEL\Desktop\bd\Meyah_page\MeyahUI\Meyah\obj\Debug\netcoreapp3.1\Razor\Pages\pagina\Empleados\Index.cshtml.g.cs
+C:\Users\ANGEL\Desktop\bd\Meyah_page\MeyahUI\Meyah\obj\Debug\netcoreapp3.1\Razor\Pages\pagina\Index.cshtml.g.cs
+C:\Users\ANGEL\Desktop\bd\Meyah_page\MeyahUI\Meyah\obj\Debug\netcoreapp3.1\Razor\Pages\pagina\Login.cshtml.g.cs
+C:\Users\ANGEL\Desktop\bd\Meyah_page\MeyahUI\Meyah\obj\Debug\netcoreapp3.1\Razor\Pages\pagina\Pedidos\Create.cshtml.g.cs
+C:\Users\ANGEL\Desktop\bd\Meyah_page\MeyahUI\Meyah\obj\Debug\netcoreapp3.1\Razor\Pages\pagina\Pedidos\Delete.cshtml.g.cs
+C:\Users\ANGEL\Desktop\bd\Meyah_page\MeyahUI\Meyah\obj\Debug\netcoreapp3.1\Razor\Pages\pagina\Pedidos\Details.cshtml.g.cs
+C:\Users\ANGEL\Desktop\bd\Meyah_page\MeyahUI\Meyah\obj\Debug\netcoreapp3.1\Razor\Pages\pagina\Pedidos\Edit.cshtml.g.cs
+C:\Users\ANGEL\Desktop\bd\Meyah_page\MeyahUI\Meyah\obj\Debug\netcoreapp3.1\Razor\Pages\pagina\Pedidos\Index.cshtml.g.cs
+C:\Users\ANGEL\Desktop\bd\Meyah_page\MeyahUI\Meyah\obj\Debug\netcoreapp3.1\Razor\Pages\pagina\Productos\Delete.cshtml.g.cs
+C:\Users\ANGEL\Desktop\bd\Meyah_page\MeyahUI\Meyah\obj\Debug\netcoreapp3.1\Razor\Pages\pagina\Productos\Details.cshtml.g.cs
+C:\Users\ANGEL\Desktop\bd\Meyah_page\MeyahUI\Meyah\obj\Debug\netcoreapp3.1\Razor\Pages\pagina\Productos\Edit.cshtml.g.cs
+C:\Users\ANGEL\Desktop\bd\Meyah_page\MeyahUI\Meyah\obj\Debug\netcoreapp3.1\Razor\Pages\pagina\Productos\ProductoAlta.cshtml.g.cs
+C:\Users\ANGEL\Desktop\bd\Meyah_page\MeyahUI\Meyah\obj\Debug\netcoreapp3.1\Razor\Pages\pagina\Productos\ProductoVista.cshtml.g.cs
+C:\Users\ANGEL\Desktop\bd\Meyah_page\MeyahUI\Meyah\obj\Debug\netcoreapp3.1\Razor\Pages\pagina\Tareas\Create.cshtml.g.cs
+C:\Users\ANGEL\Desktop\bd\Meyah_page\MeyahUI\Meyah\obj\Debug\netcoreapp3.1\Razor\Pages\pagina\Tareas\Delete.cshtml.g.cs
+C:\Users\ANGEL\Desktop\bd\Meyah_page\MeyahUI\Meyah\obj\Debug\netcoreapp3.1\Razor\Pages\pagina\Tareas\Details.cshtml.g.cs
+C:\Users\ANGEL\Desktop\bd\Meyah_page\MeyahUI\Meyah\obj\Debug\netcoreapp3.1\Razor\Pages\pagina\Tareas\Edit.cshtml.g.cs
+C:\Users\ANGEL\Desktop\bd\Meyah_page\MeyahUI\Meyah\obj\Debug\netcoreapp3.1\Razor\Pages\pagina\Tareas\Index.cshtml.g.cs
+C:\Users\ANGEL\Desktop\bd\Meyah_page\MeyahUI\Meyah\obj\Debug\netcoreapp3.1\Razor\Pages\pagina\Usuarios\UsuariosVista.cshtml.g.cs
+C:\Users\ANGEL\Desktop\bd\Meyah_page\MeyahUI\Meyah\obj\Debug\netcoreapp3.1\Razor\Pages\Privacy.cshtml.g.cs
+C:\Users\ANGEL\Desktop\bd\Meyah_page\MeyahUI\Meyah\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\Diseño_Layout.cshtml.g.cs
+C:\Users\ANGEL\Desktop\bd\Meyah_page\MeyahUI\Meyah\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\Login_Layout.cshtml.g.cs
+C:\Users\ANGEL\Desktop\bd\Meyah_page\MeyahUI\Meyah\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_Layout.cshtml.g.cs
+C:\Users\ANGEL\Desktop\bd\Meyah_page\MeyahUI\Meyah\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\ANGEL\Desktop\bd\Meyah_page\MeyahUI\Meyah\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewImports.cshtml.g.cs
+C:\Users\ANGEL\Desktop\bd\Meyah_page\MeyahUI\Meyah\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewStart.cshtml.g.cs
+C:\Users\ANGEL\Desktop\bd\Meyah_page\MeyahUI\Meyah\obj\Debug\netcoreapp3.1\Meyah.RazorTargetAssemblyInfo.cache
+C:\Users\ANGEL\Desktop\bd\Meyah_page\MeyahUI\Meyah\obj\Debug\netcoreapp3.1\Meyah.RazorTargetAssemblyInfo.cs
+C:\Users\ANGEL\Desktop\bd\Meyah_page\MeyahUI\Meyah\obj\Debug\netcoreapp3.1\Meyah.Views.pdb
+C:\Users\ANGEL\Desktop\bd\Meyah_page\MeyahUI\Meyah\obj\Debug\netcoreapp3.1\Meyah.csproj.CopyComplete
+C:\Users\ANGEL\Desktop\bd\Meyah_page\MeyahUI\Meyah\obj\Debug\netcoreapp3.1\Meyah.dll
+C:\Users\ANGEL\Desktop\bd\Meyah_page\MeyahUI\Meyah\obj\Debug\netcoreapp3.1\Meyah.pdb
+C:\Users\ANGEL\Desktop\bd\Meyah_page\MeyahUI\Meyah\obj\Debug\netcoreapp3.1\Meyah.genruntimeconfig.cache
+C:\Users\ANGEL\Desktop\MeyahUI\Meyah\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\ANGEL\Desktop\MeyahUI\Meyah\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\ANGEL\Desktop\MeyahUI\Meyah\bin\Debug\netcoreapp3.1\Meyah.exe
+C:\Users\ANGEL\Desktop\MeyahUI\Meyah\bin\Debug\netcoreapp3.1\Meyah.deps.json
+C:\Users\ANGEL\Desktop\MeyahUI\Meyah\bin\Debug\netcoreapp3.1\Meyah.runtimeconfig.json
+C:\Users\ANGEL\Desktop\MeyahUI\Meyah\bin\Debug\netcoreapp3.1\Meyah.runtimeconfig.dev.json
+C:\Users\ANGEL\Desktop\MeyahUI\Meyah\bin\Debug\netcoreapp3.1\Meyah.dll
+C:\Users\ANGEL\Desktop\MeyahUI\Meyah\bin\Debug\netcoreapp3.1\Meyah.pdb
+C:\Users\ANGEL\Desktop\MeyahUI\Meyah\bin\Debug\netcoreapp3.1\Meyah.Views.dll
+C:\Users\ANGEL\Desktop\MeyahUI\Meyah\bin\Debug\netcoreapp3.1\Meyah.Views.pdb
+C:\Users\ANGEL\Desktop\MeyahUI\Meyah\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\ANGEL\Desktop\MeyahUI\Meyah\bin\Debug\netcoreapp3.1\Meyah.Models.dll
+C:\Users\ANGEL\Desktop\MeyahUI\Meyah\bin\Debug\netcoreapp3.1\Meyah.Services.dll
+C:\Users\ANGEL\Desktop\MeyahUI\Meyah\bin\Debug\netcoreapp3.1\Meyah.Models.pdb
+C:\Users\ANGEL\Desktop\MeyahUI\Meyah\bin\Debug\netcoreapp3.1\Meyah.Services.pdb
+C:\Users\ANGEL\Desktop\MeyahUI\Meyah\obj\Debug\netcoreapp3.1\Meyah.csprojAssemblyReference.cache
+C:\Users\ANGEL\Desktop\MeyahUI\Meyah\obj\Debug\netcoreapp3.1\Meyah.AssemblyInfoInputs.cache
+C:\Users\ANGEL\Desktop\MeyahUI\Meyah\obj\Debug\netcoreapp3.1\Meyah.AssemblyInfo.cs
+C:\Users\ANGEL\Desktop\MeyahUI\Meyah\obj\Debug\netcoreapp3.1\Meyah.csproj.CoreCompileInputs.cache
+C:\Users\ANGEL\Desktop\MeyahUI\Meyah\obj\Debug\netcoreapp3.1\Meyah.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\ANGEL\Desktop\MeyahUI\Meyah\obj\Debug\netcoreapp3.1\Meyah.RazorAssemblyInfo.cache
+C:\Users\ANGEL\Desktop\MeyahUI\Meyah\obj\Debug\netcoreapp3.1\Meyah.RazorAssemblyInfo.cs
+C:\Users\ANGEL\Desktop\MeyahUI\Meyah\obj\Debug\netcoreapp3.1\staticwebassets\Meyah.StaticWebAssets.Manifest.cache
+C:\Users\ANGEL\Desktop\MeyahUI\Meyah\obj\Debug\netcoreapp3.1\staticwebassets\Meyah.StaticWebAssets.xml
+C:\Users\ANGEL\Desktop\MeyahUI\Meyah\obj\Debug\netcoreapp3.1\scopedcss\bundle\Meyah.styles.css
+C:\Users\ANGEL\Desktop\MeyahUI\Meyah\obj\Debug\netcoreapp3.1\Meyah.TagHelpers.input.cache
+C:\Users\ANGEL\Desktop\MeyahUI\Meyah\obj\Debug\netcoreapp3.1\Meyah.TagHelpers.output.cache
+C:\Users\ANGEL\Desktop\MeyahUI\Meyah\obj\Debug\netcoreapp3.1\Meyah.RazorCoreGenerate.cache
+C:\Users\ANGEL\Desktop\MeyahUI\Meyah\obj\Debug\netcoreapp3.1\Razor\Pages\Error.cshtml.g.cs
+C:\Users\ANGEL\Desktop\MeyahUI\Meyah\obj\Debug\netcoreapp3.1\Razor\Pages\pagina\Clientes\ClienteVista.cshtml.g.cs
+C:\Users\ANGEL\Desktop\MeyahUI\Meyah\obj\Debug\netcoreapp3.1\Razor\Pages\pagina\Clientes\Create.cshtml.g.cs
+C:\Users\ANGEL\Desktop\MeyahUI\Meyah\obj\Debug\netcoreapp3.1\Razor\Pages\pagina\Clientes\Details.cshtml.g.cs
+C:\Users\ANGEL\Desktop\MeyahUI\Meyah\obj\Debug\netcoreapp3.1\Razor\Pages\pagina\Clientes\Edit.cshtml.g.cs
+C:\Users\ANGEL\Desktop\MeyahUI\Meyah\obj\Debug\netcoreapp3.1\Razor\Pages\pagina\Empleados\Create.cshtml.g.cs
+C:\Users\ANGEL\Desktop\MeyahUI\Meyah\obj\Debug\netcoreapp3.1\Razor\Pages\pagina\Empleados\Delete.cshtml.g.cs
+C:\Users\ANGEL\Desktop\MeyahUI\Meyah\obj\Debug\netcoreapp3.1\Razor\Pages\pagina\Empleados\Details.cshtml.g.cs
+C:\Users\ANGEL\Desktop\MeyahUI\Meyah\obj\Debug\netcoreapp3.1\Razor\Pages\pagina\Empleados\Edit.cshtml.g.cs
+C:\Users\ANGEL\Desktop\MeyahUI\Meyah\obj\Debug\netcoreapp3.1\Razor\Pages\pagina\Empleados\Index.cshtml.g.cs
+C:\Users\ANGEL\Desktop\MeyahUI\Meyah\obj\Debug\netcoreapp3.1\Razor\Pages\pagina\Index.cshtml.g.cs
+C:\Users\ANGEL\Desktop\MeyahUI\Meyah\obj\Debug\netcoreapp3.1\Razor\Pages\pagina\Login.cshtml.g.cs
+C:\Users\ANGEL\Desktop\MeyahUI\Meyah\obj\Debug\netcoreapp3.1\Razor\Pages\pagina\Pedidos\Create.cshtml.g.cs
+C:\Users\ANGEL\Desktop\MeyahUI\Meyah\obj\Debug\netcoreapp3.1\Razor\Pages\pagina\Pedidos\Delete.cshtml.g.cs
+C:\Users\ANGEL\Desktop\MeyahUI\Meyah\obj\Debug\netcoreapp3.1\Razor\Pages\pagina\Pedidos\Details.cshtml.g.cs
+C:\Users\ANGEL\Desktop\MeyahUI\Meyah\obj\Debug\netcoreapp3.1\Razor\Pages\pagina\Pedidos\Edit.cshtml.g.cs
+C:\Users\ANGEL\Desktop\MeyahUI\Meyah\obj\Debug\netcoreapp3.1\Razor\Pages\pagina\Pedidos\Index.cshtml.g.cs
+C:\Users\ANGEL\Desktop\MeyahUI\Meyah\obj\Debug\netcoreapp3.1\Razor\Pages\pagina\Productos\Delete.cshtml.g.cs
+C:\Users\ANGEL\Desktop\MeyahUI\Meyah\obj\Debug\netcoreapp3.1\Razor\Pages\pagina\Productos\Details.cshtml.g.cs
+C:\Users\ANGEL\Desktop\MeyahUI\Meyah\obj\Debug\netcoreapp3.1\Razor\Pages\pagina\Productos\Edit.cshtml.g.cs
+C:\Users\ANGEL\Desktop\MeyahUI\Meyah\obj\Debug\netcoreapp3.1\Razor\Pages\pagina\Productos\ProductoAlta.cshtml.g.cs
+C:\Users\ANGEL\Desktop\MeyahUI\Meyah\obj\Debug\netcoreapp3.1\Razor\Pages\pagina\Productos\ProductoVista.cshtml.g.cs
+C:\Users\ANGEL\Desktop\MeyahUI\Meyah\obj\Debug\netcoreapp3.1\Razor\Pages\pagina\Tareas\Create.cshtml.g.cs
+C:\Users\ANGEL\Desktop\MeyahUI\Meyah\obj\Debug\netcoreapp3.1\Razor\Pages\pagina\Tareas\Delete.cshtml.g.cs
+C:\Users\ANGEL\Desktop\MeyahUI\Meyah\obj\Debug\netcoreapp3.1\Razor\Pages\pagina\Tareas\Details.cshtml.g.cs
+C:\Users\ANGEL\Desktop\MeyahUI\Meyah\obj\Debug\netcoreapp3.1\Razor\Pages\pagina\Tareas\Edit.cshtml.g.cs
+C:\Users\ANGEL\Desktop\MeyahUI\Meyah\obj\Debug\netcoreapp3.1\Razor\Pages\pagina\Tareas\Index.cshtml.g.cs
+C:\Users\ANGEL\Desktop\MeyahUI\Meyah\obj\Debug\netcoreapp3.1\Razor\Pages\pagina\Usuarios\UsuariosVista.cshtml.g.cs
+C:\Users\ANGEL\Desktop\MeyahUI\Meyah\obj\Debug\netcoreapp3.1\Razor\Pages\Privacy.cshtml.g.cs
+C:\Users\ANGEL\Desktop\MeyahUI\Meyah\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\Diseño_Layout.cshtml.g.cs
+C:\Users\ANGEL\Desktop\MeyahUI\Meyah\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\Login_Layout.cshtml.g.cs
+C:\Users\ANGEL\Desktop\MeyahUI\Meyah\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_Layout.cshtml.g.cs
+C:\Users\ANGEL\Desktop\MeyahUI\Meyah\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\ANGEL\Desktop\MeyahUI\Meyah\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewImports.cshtml.g.cs
+C:\Users\ANGEL\Desktop\MeyahUI\Meyah\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewStart.cshtml.g.cs
+C:\Users\ANGEL\Desktop\MeyahUI\Meyah\obj\Debug\netcoreapp3.1\Meyah.RazorTargetAssemblyInfo.cache
+C:\Users\ANGEL\Desktop\MeyahUI\Meyah\obj\Debug\netcoreapp3.1\Meyah.RazorTargetAssemblyInfo.cs
+C:\Users\ANGEL\Desktop\MeyahUI\Meyah\obj\Debug\netcoreapp3.1\Meyah.Views.pdb
+C:\Users\ANGEL\Desktop\MeyahUI\Meyah\obj\Debug\netcoreapp3.1\Meyah.csproj.CopyComplete
+C:\Users\ANGEL\Desktop\MeyahUI\Meyah\obj\Debug\netcoreapp3.1\Meyah.dll
+C:\Users\ANGEL\Desktop\MeyahUI\Meyah\obj\Debug\netcoreapp3.1\Meyah.pdb
+C:\Users\ANGEL\Desktop\MeyahUI\Meyah\obj\Debug\netcoreapp3.1\Meyah.genruntimeconfig.cache

@@ -1,0 +1,32 @@
+﻿@page
+@model Meyah.Pages.pagina.Productos.ProductoVistaModel
+@{
+    Layout = "Diseño_Layout";
+}
+<header></header>
+<body>
+    <h1 class="text-center">Productos</h1>
+    <table class="table table-bordered table-striped table-condensed">
+        <thead>
+            <tr>
+                <th >Codigo</th>
+                <th >Nombre</th>
+                <th class="numeric">Precio</th>
+                <th></th>
+            </tr>
+        </thead>
+        <tbody >
+            @foreach (var item in Model.productoList)
+            {
+                <tr>
+                    <td>@item.productoId</td>
+                    <td>@item.nombreprod</td>
+                    <td class="numeric" WIDTH="100">$ @item.precio</td>
+                    <td class=" centered" WIDTH="150"> <a class="btn btn-primary btn-sm" href="/pagina/Productos/Details?id=@item.productoId">Detalles</a> </td>
+                </tr>
+            }
+
+        </tbody>
+    </table>
+</body>
+

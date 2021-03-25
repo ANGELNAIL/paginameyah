@@ -1,0 +1,48 @@
+﻿@page
+@model Meyah.Pages.pagina.Productos.DeleteModel
+@{
+    Layout = "../Shared/Diseño_Layout";
+}
+
+
+<h1 class="text-center">Eliminar Producto</h1>
+<body>
+    <div class="col-md-3"></div>
+    <form>
+        <div class="form-row">
+            <div class=" form-group col-md-12">
+                <label for="nombreProducto">Nombre del Producto</label>
+                <input type="text" class="form-control" id="exampleFormControlInput1" placeholder="">
+            </div>
+
+            <div class="form-group col-md-12">
+                <label for="exampleFormControlInput1">Precio</label>
+                <input type="number" class="form-control" id="exampleFormControlInput1" placeholder="$0.0">
+            </div>
+        </div>
+
+        <div class="form-row">
+            <div class="form-group col-md-6">
+                
+            </div>
+            <div class="form-group col-md-6">
+                
+            </div>
+        </div>
+        <div class="col-md-1"></div>
+        <div class="center col-md-6 col-lg-5">
+            <button type="submit" class="btn btn-round btn-warning btn-block" asp-page="/pagina/Productos/Details">Eliminar</button>
+
+        </div>
+
+        <div class="centered col-xs-12 col-md-6 col-lg-5">
+            <button type="submit" class="btn btn-round btn-danger btn-block" asp-page="/pagina/Productos/ProductoVista">Cancelar</button>
+        </div>
+        <div class="col-md-1"></div>
+        <!--
+            <div class="col py-3 px-lg-5 border bg-light"> <button type="submit" class="btn btn-round btn-warning col-lg-3">Eliminar</button></div>
+          <div class="col py-3 px-lg-5 border bg-light"><button type="submit" class="btn btn-round btn-danger col-lg-3">Cancelar</button></div>-->
+
+    </form>
+    <div class="col-md-3"></div>
+</body>

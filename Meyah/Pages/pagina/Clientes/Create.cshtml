@@ -1,0 +1,61 @@
+﻿@page
+@model Meyah.Pages.pagina.Clientes.CreateModel
+@{
+    Layout = "../Shared/Diseño_Layout";
+}
+
+<h1 class="text-center">Registrar Cliente</h1>
+<body>
+    
+    <div class="col-md-3"></div>
+    <div class="col-md-6">
+        <form method="post">
+            <input asp-for="cliente.usuarioId" type="text" class="form-control hidden" value="1">
+
+            
+                <div class="col">
+                    <label asp-for="cliente.nombrecl"><strong>Nombre:</strong></label>
+                    <input asp-for="cliente.nombrecl" type="text" class="form-control" id="exampleFormControlInput1">
+                    <span class="text-danger"></span>
+                </div><br />
+
+                <div class="col">
+                    <label asp-for="cliente.apellidocl"><strong>Apellido:</strong></label>
+                    <input asp-for="cliente.apellidocl" type="text" class="form-control" id="exampleFormControlInput1">
+                </div><br />
+            
+
+            
+                <div class="col">
+                    <label asp-for="cliente.direccion"><strong>Dirección:</strong></label>
+                    <input asp-for="cliente.direccion" type="text" class="form-control">
+                    <span class="text-danger"></span>
+                </div><br />
+
+                <div class="col">
+                    <label asp-for="cliente.telefono"><strong>Teléfono:</strong></label>
+                    <input asp-for="cliente.telefono" type="text" class="form-control">
+                    <span class="text-danger"></span>
+                </div><br />
+
+       
+                <div class="col">
+                    <label asp-for="cliente.nacimiento"><strong>Fecha de nacimiento:</strong></label>
+                    <input asp-for="cliente.nacimiento" type="datetime-local" class="form-control">
+                    <span class="text-danger"></span>
+                </div><br />
+            
+                    
+                 <div class="col-md-5"></div>
+                    <br />
+            
+                       <button class="btn btn-success" type="submit" value="Agregar">Agregar</button> |
+                       <button type="submit" class="btn btn-danger" asp-page="/pagina/Empleados/Index">Cancelar</button>
+
+                  <div class="col-md-5"></div>
+                      
+        </form>
+
+    </div>
+ 
+</body>

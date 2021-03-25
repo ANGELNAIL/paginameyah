@@ -1,0 +1,46 @@
+﻿@page
+@model Meyah.Pages.pagina.Pedidos.IndexModel
+@{
+    Layout = "../Shared/Diseño_Layout";
+}
+
+<h1 class="text-center">Pedidos</h1>
+<table class="table table-bordered table-striped table-condensed">
+    <thead >
+        <tr >
+            <th ><strong>Codigo</strong></th>
+            <th ><strong>Cantidad</strong></th>            
+            <th ><strong>Producto</strong></th>
+            <th ><strong>Estado</strong></th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody >
+        @foreach (var item in Model.PedidoList)
+        {
+        <tr>
+            <td>@item.pedidoId</td>
+            <td>@item.cantidad</td>          
+          
+            @foreach (var prod in Model.ProductoList)
+            {
+                @if (item.productoId == prod.productoId)
+                {
+                    <td>@prod.nombreprod</td>
+                }
+            }            
+            @if (@item.estado == true)
+            {
+                <td class="text-danger text-center"><strong>Completo</strong></td>
+            }
+            else
+            {
+                <td class="text-success text-center"><strong>Activo</strong></td>
+            }
+
+            <td class=" centered" WIDTH="150"> <a class="btn btn-primary btn-sm" href="/pagina/Pedidos/Details?id=@item.pedidoId">Detalles</a></td>
+        </tr>
+        }
+
+    </tbody>
+</table>

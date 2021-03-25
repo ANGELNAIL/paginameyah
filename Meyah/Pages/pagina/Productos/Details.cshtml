@@ -1,0 +1,53 @@
+﻿@page
+
+@model Meyah.Pages.pagina.Productos.DetailsModel
+@{
+    Layout = "../Shared/Diseño_Layout";
+}
+
+<h1 class="hidden">@Model.producto.productoId</h1>
+<h1 class="text-center">Detalles Producto</h1>
+<body>
+    <form method="post">
+
+        <div class="col-md-5"></div>
+        <a class="btn btn-info " href="/pagina/Productos/Edit?id=@Model.producto.productoId"> Editar</a> |
+        <input class="btn btn-danger " type="button" data-toggle="modal" data-target="#myModal" value="Eliminar">
+        <div class="col-md-5"></div>
+
+        <div class="modal fade" id="myModal" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+            <div class="modal-dialog">
+                <div class="modal-content">
+                    <div class="modal-header">
+                        <button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button>
+                        <h4 class="modal-title" id="myModalLabel">Alerta</h4>
+                    </div>
+                    <div class="modal-body">
+                        ¿Desea eliminar el producto: "@Model.producto.nombreprod"?
+                    </div>
+                    <div class="modal-footer">
+                        <button type="button" class="btn btn-info" data-dismiss="modal">Eliminar</button> |
+                        <input class="btn btn-danger" name="button" type="submit" value="Cancelar" />
+                    </div>
+                </div>
+            </div>
+        </div>
+
+       
+        <div class="form-group">
+            <div class="col-md-6">
+                <label for="nombreProducto"><strong>Nombre del Producto:</strong></label>
+                <input type="text" required class="form-control" id="exampleFormControlInput1" value="@Model.producto.nombreprod" disabled="disabled">
+            </div>
+            
+            <div class="col-md-6">
+                <label for="exampleFormControlInput1"><strong>Precio:</strong></label>
+                <input type="number" class="form-control" id="exampleFormControlInput1" value="@Model.producto.precio" disabled="disabled">
+            </div>
+        </div>
+        
+
+    </form>
+    
+</body>
+

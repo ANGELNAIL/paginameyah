@@ -1,0 +1,84 @@
+﻿@page
+@model Meyah.Pages.pagina.Pedidos.DetailsModel
+@{
+    Layout = "../Shared/Diseño_Layout";
+}
+
+<h1 class="text-center">Detalles Pedidos</h1>
+<body>
+    <h1 class="hidden">@Model.pedido.pedidoId</h1>
+    <form method="post">
+
+        <div class="col-md-5"></div>
+        <a class="btn btn-info " href="/pagina/Pedidos/Edit?id=@Model.pedido.pedidoId"> Editar</a> |
+        <input class="btn btn-danger" id="Submit1" type="submit" name="button" value="Eliminar" />
+        <div class="col-md-5"></div>
+        <br />
+
+        
+        <div class="form-row">
+
+            <div class="form-group col-md-6">
+                <label><strong>Fecha Pedido:</strong></label>
+                <input type="text" class="form-control" disabled="disabled" value="@Model.pedido.fechapedido.Date.ToShortDateString();" />
+                <span class="text-danger"></span>
+                <br />
+
+            </div>
+
+
+            <div class="form-group col-md-6">
+                <label><strong>Fecha de Entrega:</strong></label>
+                <input type="text" class="form-control" disabled="disabled" value="@Model.pedido.fechaentrega.Date.ToShortDateString();" />
+                <span class="text-danger"></span>
+                <br />
+
+            </div>
+
+
+        </div>
+
+        
+        <div class="form-group">
+
+            <div class=" col-md-6">
+                <label asp-for="pedido.productoId"><strong>Producto:</strong></label><br />
+                <select disabled="disabled" class="custom-select  form-control" asp-for="pedido.productoId" asp-items="@(new SelectList(Model.productoList, "productoId" , "nombreprod"))">
+                    <option>Selecciona el Producto</option>
+                </select>
+                <br />
+            </div>
+
+
+            <div class="col-md-6">
+                <label asp-for="pedido.clienteId"><strong>Cliente al que pertenece:</strong></label><br />
+                <select disabled="disabled" class="custom-select  form-control" asp-for="pedido.clienteId" asp-items="@(new SelectList(Model.clienteList, "clienteId", "nombrecl" ,"apellidocl"))">
+                    <option>Selecciona el cliente</option>
+                </select>
+                <br />
+            </div>
+
+        </div>
+
+        
+        <div class="form-row">
+
+            <div class="form-group col-md-6">
+                <label><strong>Precio:</strong></label>
+                <input type="text" class="form-control" value="@Model.pedido.precio" disabled="disabled" />
+                <span class="text-danger"></span>
+                <br />
+            </div>
+
+
+            <div class="form-group col-md-6">
+                <label><strong>Cantidad:</strong></label>
+                <input type="number" class="form-control" value="@Model.pedido.cantidad" disabled="disabled" />
+                <span class="text-danger"></span>
+                <br />
+
+            </div>
+
+        </div>
+    </form>
+</body>

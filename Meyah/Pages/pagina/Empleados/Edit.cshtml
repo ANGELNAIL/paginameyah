@@ -1,0 +1,76 @@
+﻿@page
+@model Meyah.Pages.pagina.Empleados.EditModel
+@{
+    Layout = "../Shared/Diseño_Layout";
+}
+<h1 class="hidden">@Model.empleado.empleadoId</h1>
+<h1 class="text-center">Editar Empleado</h1>
+<body>
+    
+    <form method="post">
+
+        <div class="col-md-5"></div>
+            <input class="btn btn-info " type="button" data-toggle="modal" data-target="#myModal" value="Guardar"> | 
+            <button type="submit" class="btn btn-danger" asp-page="/pagina/Index">Cancelar</button>
+        <div class="col-md-5"></div>
+
+        <label class="control-label"></label>
+        <input asp-for="@Model.empleado.empleadoId" type="text" value="@Model.empleado.empleadoId" class="hide" />
+        <input asp-for="@Model.empleado.usuarioId" type="text" value="1" class="hide" />
+
+        <div class="modal fade" id="myModal" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+            <div class="modal-dialog">
+                <div class="modal-content">
+                    <div class="modal-header">
+                        <button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button>
+                        <h4 class="modal-title" id="myModalLabel">Alerta</h4>
+                    </div>
+                    <div class="modal-body">
+                        ¿Desea actualizar el cliente: "@Model.empleado.nombreemp + @Model.empleado.apellidoem"?
+                    </div>
+                    <div class="modal-footer">
+                        <button type="button" class="btn btn-info" data-dismiss="modal">Guardar</button> |
+                        <input class="btn btn-danger" name="button" type="submit" value="Cancelar" />
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <div class="form-group">
+            <div class=" col-md-6">
+                <label asp-for="@Model.empleado.nombreemp"><strong>Nombre:</strong></label>
+                <input asp-for="@Model.empleado.nombreemp" type="text" class="form-control" id="exampleFormControlInput1" value="@Model.empleado.nombreemp">
+                <span class="text-danger"></span>
+
+            </div>
+
+            <div class="col-md-6">
+                <label asp-for="@Model.empleado.apellidoem"><strong>Apellido:</strong></label>
+                <input asp-for="@Model.empleado.apellidoem" type="text" class="form-control" id="exampleFormControlInput1" value="@Model.empleado.apellidoem">
+                <span class="text-danger"></span>
+            </div>
+            <br />
+            <br />
+            <br />
+
+        </div>
+        <div class="form-group">
+            <div class="col-md-6">
+                <label asp-for="@Model.empleado.telefono"><strong>Teléfono:</strong></label>
+                <input asp-for="@Model.empleado.telefono" type="text" class="form-control" value="@Model.empleado.telefono" />
+                <span class="text-danger"></span>
+
+            </div>
+            <div class="col-md-6">
+                <label asp-for="@Model.empleado.fechanacimiento"><strong>Fecha de Nacimiento:</strong></label>
+                <input asp-for="@Model.empleado.fechanacimiento" type="date" class="form-control" />
+                <span class="text-danger"></span>
+                <br />
+                <br />
+                <br />
+
+            </div>
+        </div>
+
+    </form>
+</body>

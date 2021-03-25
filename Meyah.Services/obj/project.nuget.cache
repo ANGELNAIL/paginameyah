@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "OF52EnS9YrcVFBiMvxaiaotbK0O+D8gb2ImJ4aJV59iwfocw+9/5lzLFLychbEc5RkUvaAg5YhBwA7WjUQbHig==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ANGEL\\Desktop\\MeyahUI\\Meyah.Services\\Meyah.Services.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ANGEL\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
